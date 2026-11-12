@@ -25,7 +25,7 @@ jobs:
 
       - name: Run job alert scan
         env:
-          JOBALERT_RAPIDAPI_KEY: ${{ secrets.RAPIDAPI_KEY }}
+          JOBALERT_SOURCES__RAPIDAPI__API_KEY: ${{ secrets.RAPIDAPI_KEY }}
           JOBALERT_NOTIFICATIONS__TELEGRAM__ENABLED: 'true'
           JOBALERT_NOTIFICATIONS__TELEGRAM__BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           JOBALERT_NOTIFICATIONS__TELEGRAM__CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
