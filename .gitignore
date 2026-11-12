@@ -1,8 +1,9 @@
 # Environment / secrets
 .env
 
-# Runtime data / state
+# Runtime data / state (except seen_jobs.json which we track for dedup)
 data/
+!data/seen_jobs.json
 *.session
 session.b64
 

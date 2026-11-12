@@ -131,55 +131,50 @@ def _send_telegram(token: str, chat_id: str, text: str) -> None:
 def _format_telegram_message(
     relevant: list[Job], maybe: list[Job]
 ) -> str:
-    """Format message per user's structure:
+    """Format message per user's structure with clean design.
+
     Role: XYZ
     Company: XYZ
     Experience:
+    Location:
     Notes: Summarized job description
     Application Link: XYZ.com
     """
     lines: list[str] = []
 
     if not relevant and not maybe:
-        lines.append("🔔 SAP Job Alert — No new relevant jobs today.")
+        lines.append("🔔 <b>SAP Job Alert — No new relevant jobs today.</b>")
         return "\n".join(lines)
 
-    if relevant:
-        lines.append(
-            f"🔔 SAP Job Alert — {len(relevant)} new relevant job(s) found:\n"
+    total = len(relevant) + len(maybe)
+    lines.append(
+        f"🔔 <b>SAP Job Alert — {total} new job(s) found</b>\n"
+        f"{'─' * 28}"
+    )
+
+    def _job_block(job: Job, label: str) -> str:
+        desc = " ".join((job.description or "").split())
+        notes = desc[:200] + ("…" if len(desc) > 200 else "")
+        return (
+            f"\n{label} <b>Role:</b> {job.title}\n"
+            f"🏢 <b>Company:</b> {job.company}\n"
+            f"📍 <b>Location:</b> {job.location or 'Not specified'}\n"
+            f"📝 <b>Notes:</b> {notes}\n"
+            f"🔗 <b>Apply:</b> <a href=\"{job.url}\">{job.url}</a>\n"
+            f"⭐ Score: {job.score:.2f}"
         )
+
+    if relevant:
+        lines.append(f"\n<b>✅ Relevant ({len(relevant)}):</b>")
         for job in relevant:
-            # Notes = truncated description, cleaned of extra whitespace.
-            desc = " ".join((job.description or "").split())
-            notes = desc[:300] + ("…" if len(desc) > 300 else "")
-            lines.append(
-                f"<b>Role:</b> {job.title}\n"
-                f"<b>Company:</b> {job.company}\n"
-                f"<b>Experience:</b> 3+ years\n"
-                f"<b>Location:</b> {job.location or 'Not specified'}\n"
-                f"<b>Notes:</b> {notes}\n"
-                f"<b>Application Link:</b> <a href=\"{job.url}\">{job.url}</a>\n"
-                f"Score: {job.score:.2f}"
-            )
-            lines.append("")  # blank line between jobs
+            lines.append(_job_block(job, "💼"))
+            lines.append(f"{'─' * 28}")
 
     if maybe:
-        lines.append(
-            f"📎 Also {len(maybe)} lower-confidence match(es):\n"
-        )
+        lines.append(f"\n<b>📎 Maybe / lower confidence ({len(maybe)}):</b>")
         for job in maybe:
-            desc = " ".join((job.description or "").split())
-            notes = desc[:300] + ("…" if len(desc) > 300 else "")
-            lines.append(
-                f"<b>Role:</b> {job.title}\n"
-                f"<b>Company:</b> {job.company}\n"
-                f"<b>Experience:</b> 3+ years\n"
-                f"<b>Location:</b> {job.location or 'Not specified'}\n"
-                f"<b>Notes:</b> {notes}\n"
-                f"<b>Application Link:</b> <a href=\"{job.url}\">{job.url}</a>\n"
-                f"Score: {job.score:.2f}"
-            )
-            lines.append("")
+            lines.append(_job_block(job, "💡"))
+            lines.append(f"{'─' * 28}")
 
     return "\n".join(lines)
 
