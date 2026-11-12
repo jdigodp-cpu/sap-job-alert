@@ -1,0 +1,64 @@
+Raj Amit Wadkar
+SAP CDS Views & AMDP Specialist | Embedded Analytics
+rajwadkar02@gmail.com | +91 94059 08701 | Pune, India | linkedin.com/in/rajamitwadkar
+
+PROFESSIONAL SUMMARY
+
+SAP Embedded Analytics specialist with 3+ years designing CDS Views and AMDP-based data models for international clients across retail, healthcare, and manufacturing. Deep hands-on expertise in CDS Views and AMDP, paired with Fiori-based application development and SAP Native HANA Calculation Views; currently extending into SAP Datasphere and SAP Analytics Cloud. Trusted to own problems end-to-end, with a delivery track record clients and managers consistently vouch for.
+
+WORK EXPERIENCE
+
+Associate Software Consultant | Infosys Ltd., Pune, India
+07/2025 - Present
+- CDS View design and optimization for complex business requirements across international client engagements, consistently delivering high-performance data models.
+- AMDP (ABAP Managed Database Procedures) and Fiori-based analytical apps built to meet user-facing reporting needs.
+- Codebase analysis to identify inefficiencies, replacing them with optimized CDS/AMDP-driven solutions that reduced query load and improved reporting accuracy.
+- SAP Datasphere and SAP Analytics Cloud expertise expanding current scope beyond core CDS development.
+- Mentorship of teammates new to CDS Views, recognized for explaining complex concepts clearly and patiently.
+- Retained as 1 of 8 core members through a 22-person team restructuring, reflecting technical reliability and consistent delivery.
+- Two-time RISE award recipient for project contributions, both before and after the team restructuring.
+
+Analyst | Capgemini Technology Services Pvt. Ltd., Airoli, Navi Mumbai
+03/2023 - 07/2025
+- CDS Views, Table Functions, and AMDP designed to deliver real-time business insight, integrated with Fiori and Web Dynpro front-end applications.
+- SAP Native HANA Calculation Views developed and optimized, enhancing data processing speed and reporting performance for enterprise clients.
+- SQL scripts created and validated for data model testing, ensuring accuracy, integrity, and consistency across analytical layers.
+- Direct client point of contact for international engagements, earning consistent praise for clear communication, proactive problem-solving, and reliable delivery.
+- Documentation and training materials led end-to-end, streamlining client onboarding and cross-team knowledge transfer.
+
+SKILLS
+
+SAP Technologies: CDS Views | AMDP (ABAP Managed Database Procedures) | SAP Embedded Analytics | SAP Native HANA Calculation Views | RAP | Web Dynpro | SAP Datasphere
+
+Data & Visualization: SQL (Advanced) | SAP Analytics Cloud
+
+Programming: Python | Git / GitHub
+
+Professional: Client Communication | Problem Solving | Mentoring & Knowledge Transfer | Technical Documentation | Team Collaboration | Ownership Mindset
+
+EDUCATION
+Bachelor of Information Technology Engineering | Finolex Academy of Management and Technology, Ratnagiri | 2019 - 2022 | CGPA: 8.84 / 10
+
+Diploma in Computer Engineering | Government Polytechnic, Ratnagiri | 2016 - 2019 | Score: 81.25%
+
+PERSONAL PROJECTS
+
+COVID-19 Vaccine Slot Notifier | 2021
+- Python-based web scraper built to monitor a live government vaccination portal for available slots, automatically notifying users via email and removing the need for manual, repeated checks.
+- BeautifulSoup and Requests used for scraping, with smtplib powering automated email delivery via a polling mechanism that triggered alerts only when slot availability changed.
+
+Regional News Website Scraper | 2021
+- Python scraper developed to extract and summarize curated news from a regional Marathi news provider, delivering a concise digest directly to users without requiring a site visit.
+- BeautifulSoup and Requests used to build a tool solving a real accessibility problem for users wanting relevant local news in a quick, readable format.
+
+CERTIFICATIONS & TRAINING
+
+SAP Embedded Analytics Masterclass | Udemy • Power BI Training | Simplilearn • Master SQL for Data Science | Udemy
+
+LANGUAGES
+
+English (Professional) | Hindi (Native) | Marathi (Native)
+
+INTERESTS & HOBBIES
+
+DJing | Reading | Traveling | Spirituality

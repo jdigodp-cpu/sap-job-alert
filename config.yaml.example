@@ -1,0 +1,52 @@
+# Example configuration for the daily SAP job alert system.
+# Copy this file to config.yaml and edit as needed.
+# PyYAML is optional: if it is not installed, defaults + environment
+# variables (JOBALERT_*) are used instead.
+
+sources:
+  demo:
+    enabled: true        # built-in sample jobs - great for testing
+  rapidapi:
+    enabled: false       # set true and add a key below to use real sources
+    api_key: ""          # get one from rapidapi.com (e.g. JSearch)
+    engine: "jsearch"    # "jsearch" or "techmap"
+  rss_feeds:
+    enabled: false
+    urls: []
+      # - https://example-job-board.com/rss
+
+search_queries:
+  - "SAP CDS Views AMDP"
+  - "SAP Embedded Analytics"
+  - "SAP Datasphere"
+  - "ABAP CDS"
+  - "HANA Calculation View"
+  - "SAP Fiori analytical app"
+
+preferred_locations:
+  - "Pune"
+  - "India"
+  - "Remote"
+  - "Work from home"
+  - "WFH"
+
+experience_years: "3+"
+
+scoring:
+  skill_weight: 0.5
+  title_weight: 0.3
+  location_weight: 0.15
+  recency_weight: 0.05
+  relevant_threshold: 0.60   # score >= this => immediate alert
+  maybe_threshold: 0.40      # score >= this => daily digest
+
+notifications:
+  console: true
+  email:
+    enabled: false
+    smtp_host: ""
+    smtp_port: 587
+    smtp_user: ""
+    smtp_pass: ""
+    to: ""
+  windows_toast: true

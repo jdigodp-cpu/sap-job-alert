@@ -1,0 +1,5 @@
+# Core: standard library only.
+# Optional dependencies (install only the ones you need):
+#   pip install requests          # for RapidAPI job-aggregation sources
+#   pip install pyyaml            # for YAML config (config.yaml)
+#   pip install win10toast        # Windows toast notifications

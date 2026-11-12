@@ -1,0 +1,40 @@
+name: Daily SAP Job Alert
+
+on:
+  schedule:
+    # 9:00 AM IST every day = 03:30 UTC
+    - cron: '30 3 * * *'
+  workflow_dispatch:  # allow manual trigger from Actions tab
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # needed to commit state back
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests pyyaml
+
+      - name: Run job alert scan
+        env:
+          JOBALERT_RAPIDAPI_KEY: ${{ secrets.RAPIDAPI_KEY }}
+          JOBALERT_NOTIFICATIONS__TELEGRAM__ENABLED: 'true'
+          JOBALERT_NOTIFICATIONS__TELEGRAM__BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          JOBALERT_NOTIFICATIONS__TELEGRAM__CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python main.py --run-once
+
+      - name: Commit updated seen_jobs.json
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/seen_jobs.json
+          git commit -m "chore: update seen_jobs.json after daily job scan" || echo "No changes to commit"
+          git push || echo "Push skipped (no changes)"

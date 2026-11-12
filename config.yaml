@@ -1,0 +1,58 @@
+# Configuration for the daily SAP job alert system.
+# PyYAML is optional: if it is not installed, defaults + environment
+# variables (JOBALERT_*) are used instead.
+
+sources:
+  demo:
+    enabled: false        # disabled now that a real source is configured
+  rapidapi:
+    enabled: true         # real job aggregation via RapidAPI (JSearch)
+    api_key: ""          # set via JOBALERT_RAPIDAPI_KEY env var / GitHub secret
+    engine: "jsearch"     # "jsearch" (LinkedIn/Indeed/Glassdoor agg.) or "techmap"
+    country: "in"         # India-focused results (you're in Pune); set "" for global
+  rss_feeds:
+    enabled: false
+    urls: []
+      # - https://example-job-board.com/rss
+
+search_queries:
+  - "SAP CDS Views AMDP"
+  - "SAP Embedded Analytics"
+  - "SAP Datasphere"
+  - "ABAP CDS"
+  - "HANA Calculation View"
+  - "SAP Fiori analytical app"
+  - "SAP Analytics Cloud"
+  - "SAP HANA developer"
+
+preferred_locations:
+  - "Pune"
+  - "India"
+  - "Remote"
+  - "Work from home"
+  - "WFH"
+
+experience_years: "3+"
+
+scoring:
+  skill_weight: 0.5
+  title_weight: 0.3
+  location_weight: 0.15
+  recency_weight: 0.05
+  relevant_threshold: 0.60   # score >= this => immediate alert
+  maybe_threshold: 0.40      # score >= this => daily digest
+
+notifications:
+  console: true
+  email:
+    enabled: false
+    smtp_host: ""
+    smtp_port: 587
+    smtp_user: ""
+    smtp_pass: ""
+    to: ""
+  windows_toast: true
+  telegram:
+    enabled: false
+    bot_token: ""       # get from @BotFather on Telegram
+    chat_id: ""         # your chat id (or a group/chat id)
