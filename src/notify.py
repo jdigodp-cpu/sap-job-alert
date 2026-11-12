@@ -76,27 +76,52 @@ def windows_toast(title: str, body: str, enabled: bool) -> None:
         print(f"[toast] {title}: {body}  (install win10toast for pop-ups)")
 
 
+TELEGRAM_MAX_LEN = 4000  # Telegram limit is 4096; stay safely under
+
 def _send_telegram(token: str, chat_id: str, text: str) -> None:
-    """Send a message via the Telegram Bot API sendMessage endpoint."""
+    """Send a message via the Telegram Bot API sendMessage endpoint.
+
+    Splits into multiple messages if text exceeds Telegram's length limit.
+    """
     url = f"https://api.telegram.org/bot{token}/sendMessage"
-    payload = json.dumps(
-        {
-            "chat_id": chat_id,
-            "text": text,
-            "parse_mode": "HTML",
-            "disable_web_page_preview": False,
-        }
-    ).encode("utf-8")
-    req = urllib.request.Request(
-        url,
-        data=payload,
-        headers={"Content-Type": "application/json"},
-        method="POST",
-    )
-    try:
+
+    def _send_chunk(chunk: str) -> None:
+        payload = json.dumps(
+            {
+                "chat_id": chat_id,
+                "text": chunk,
+                "parse_mode": "HTML",
+                "disable_web_page_preview": False,
+            }
+        ).encode("utf-8")
+        req = urllib.request.Request(
+            url,
+            data=payload,
+            headers={"Content-Type": "application/json"},
+            method="POST",
+        )
         with urllib.request.urlopen(req, timeout=30) as resp:
             resp.read()
-        print("[telegram] message sent.")
+
+    try:
+        if len(text) <= TELEGRAM_MAX_LEN:
+            _send_chunk(text)
+            print("[telegram] message sent.")
+        else:
+            # Split on blank-line boundaries (between jobs) where possible.
+            parts = text.split("\n\n")
+            current = ""
+            for part in parts:
+                candidate = (current + "\n\n" + part) if current else part
+                if len(candidate) <= TELEGRAM_MAX_LEN:
+                    current = candidate
+                else:
+                    if current:
+                        _send_chunk(current)
+                    current = part
+            if current:
+                _send_chunk(current)
+            print(f"[telegram] {len(text)} char(s) sent across message(s).")
     except urllib.error.HTTPError as exc:
         print(f"[telegram] failed (HTTP {exc.code}): {exc.read().decode(errors='replace')[:200]}")
     except Exception as exc:  # noqa: BLE001
