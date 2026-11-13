@@ -87,8 +87,13 @@ TELEGRAM_MAX_LEN = 4000  # Telegram limit is 4096; stay safely under
 IST = timezone(timedelta(hours=5, minutes=30))
 
 
-def _send_telegram(token: str, chat_id: str, text: str) -> None:
-    """Send a single message via the Telegram Bot API sendMessage endpoint."""
+def _send_telegram(token: str, chat_id: str, text: str, max_retries: int = 3) -> bool:
+    """Send a single message via the Telegram Bot API sendMessage endpoint.
+
+    Handles HTTP 429 (rate limit) by respecting the `retry_after` value
+    and retrying automatically.
+    Returns True if sent successfully, False otherwise.
+    """
     url = f"https://api.telegram.org/bot{token}/sendMessage"
     payload = json.dumps(
         {
@@ -98,31 +103,58 @@ def _send_telegram(token: str, chat_id: str, text: str) -> None:
             "disable_web_page_preview": False,
         }
     ).encode("utf-8")
-    req = urllib.request.Request(
-        url,
-        data=payload,
-        headers={"Content-Type": "application/json"},
-        method="POST",
-    )
-    try:
-        with urllib.request.urlopen(req, timeout=30) as resp:
-            resp.read()
-        print("[telegram] message sent.")
-    except urllib.error.HTTPError as exc:
-        print(f"[telegram] failed (HTTP {exc.code}): {exc.read().decode(errors='replace')[:200]}")
-    except Exception as exc:  # noqa: BLE001
-        print(f"[telegram] failed: {exc}")
+
+    for attempt in range(max_retries):
+        req = urllib.request.Request(
+            url,
+            data=payload,
+            headers={"Content-Type": "application/json"},
+            method="POST",
+        )
+        try:
+            with urllib.request.urlopen(req, timeout=30) as resp:
+                resp.read()
+            print("[telegram] message sent.")
+            return True
+        except urllib.error.HTTPError as exc:
+            body = exc.read().decode(errors="replace")
+            if exc.code == 429:
+                # Parse retry_after from the response body.
+                import json as _json
+
+                try:
+                    data = _json.loads(body)
+                    retry_after = data.get("parameters", {}).get("retry_after", 5)
+                except Exception:
+                    retry_after = 5
+                print(
+                    f"[telegram] rate limited (429), retrying after {retry_after}s "
+                    f"(attempt {attempt + 1}/{max_retries})"
+                )
+                time.sleep(retry_after)
+                continue
+            print(f"[telegram] failed (HTTP {exc.code}): {body[:200]}")
+            return False
+        except Exception as exc:  # noqa: BLE001
+            print(f"[telegram] failed: {exc}")
+            return False
+    print(f"[telegram] failed after {max_retries} retries.")
+    return False
 
 
 def _send_telegram_messages(token: str, chat_id: str, texts: list[str]) -> None:
-    """Send multiple Telegram messages, one after another, with a small delay."""
+    """Send multiple Telegram messages, one after another, with safe delays.
+
+    Uses a 3-second base delay between messages and handles 429 rate limits
+    by respecting Telegram's `retry_after` value.
+    """
     for i, text in enumerate(texts):
         if len(text) > TELEGRAM_MAX_LEN:
             text = text[:TELEGRAM_MAX_LEN] + "\n…(truncated)"
         _send_telegram(token, chat_id, text)
-        # Delay between messages to avoid hitting Telegram rate limits.
+        # Base delay between messages to avoid hitting Telegram rate limits.
         if i < len(texts) - 1:
-            time.sleep(2)
+            time.sleep(3)
 
 
 def _ist_now() -> datetime:

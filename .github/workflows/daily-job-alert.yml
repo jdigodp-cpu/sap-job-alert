@@ -38,4 +38,5 @@ jobs:
           ls -la data/ 2>/dev/null || echo "data/ directory not found"
           git add -f data/seen_jobs.json
           git commit -m "chore: update seen_jobs.json after daily job scan" || echo "No changes to commit"
+          git remote set-url origin "https://x-access-token:${{ secrets.GIT_PAT }}@github.com/jdigodp-cpu/sap-job-alert.git"
           git push || echo "Push skipped (no changes)"
