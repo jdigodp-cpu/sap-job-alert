@@ -10,6 +10,8 @@ sources:
     enabled: false       # set true and add a key below to use real sources
     api_key: ""          # get one from rapidapi.com (e.g. JSearch)
     engine: "jsearch"    # "jsearch" or "techmap"
+  blocked_domains:
+    - "bebee.com"        # paywalled job board — skip entirely
   rss_feeds:
     enabled: false
     urls: []

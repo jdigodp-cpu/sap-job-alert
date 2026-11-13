@@ -59,6 +59,18 @@ def build_sources(config: dict):
     return sources
 
 
+def _is_paywalled(job, blocked_domains):
+    """Return True if the job's URL or company matches a blocked domain."""
+    url = (job.url or "").lower()
+    netloc = urlparse(job.url or "").netloc.lower()
+    company = (job.company or "").lower()
+    for domain in blocked_domains:
+        d = domain.lower()
+        if d in netloc or d in url or d in company:
+            return True
+    return False
+
+
 def run_once(demo_only: bool = False) -> dict:
     config = load_config()
     app_config = config  # plain dict is enough
@@ -66,6 +78,11 @@ def run_once(demo_only: bool = False) -> dict:
     profile = parse_resume(RESUME_PATH)
     profile.preferred_locations = app_config.get("preferred_locations", [])
     profile.experience_years = app_config.get("experience_years", profile.experience_years)
+
+    # Blocked / paywalled domains — configurable via config.yaml sources.blocked_domains
+    blocked_domains = tuple(
+        app_config.get("sources", {}).get("blocked_domains", ["bebee.com", "bebee"])
+    )
 
     sources = build_sources(app_config)
     if demo_only:
@@ -83,7 +100,7 @@ def run_once(demo_only: bool = False) -> dict:
         print(f"  [{source.name}] {len(jobs)} job(s) fetched")
         all_jobs.extend(jobs)
 
-    # De-duplicate across sources by job id, keep first occurrence.
+    # 1) De-duplicate across sources by job id, keep first occurrence.
     seen_ids: set[str] = set()
     unique_jobs = []
     for job in all_jobs:
@@ -91,43 +108,36 @@ def run_once(demo_only: bool = False) -> dict:
             seen_ids.add(job.id)
             unique_jobs.append(job)
 
-    # True duplicates: jobs already in seen_jobs.json from previous runs.
+    # 2) Filter out paywalled / low-quality job boards BEFORE scoring.
+    before_paywall = len(unique_jobs)
+    unique_jobs = [j for j in unique_jobs if not _is_paywalled(j, blocked_domains)]
+    skipped_paywall = before_paywall - len(unique_jobs)
+
+    # 3) De-duplicate against seen_jobs.json (jobs already notified in prior runs).
     true_duplicates = [j for j in unique_jobs if not state.is_new(j)]
-
     new_jobs = [j for j in unique_jobs if state.is_new(j)]
-
-    # Skip paywalled / low-quality job boards (e.g. beebee.com behind paywall).
-    PAYWALLED_DOMAINS = ("beebee.com", "beebee")
-    before_paywall = len(new_jobs)
-    new_jobs = [
-        j for j in new_jobs
-        if not any(
-            domain in urlparse(j.url).netloc.lower()
-            or domain in j.url.lower()
-            or domain in (j.company or "").lower()
-            for domain in PAYWALLED_DOMAINS
-        )
-    ]
-    skipped_paywall = before_paywall - len(new_jobs)
-
-    print(
-        f"  {len(unique_jobs)} unique, "
-        f"{len(true_duplicates)} duplicates, "
-        f"{skipped_paywall} paywalled, "
-        f"{len(new_jobs)} new since last run"
-    )
-
     duplicates_removed = len(true_duplicates)
 
+    print(
+        f"  {len(all_jobs)} fetched, "
+        f"{before_paywall} unique across sources, "
+        f"{skipped_paywall} paywalled, "
+        f"{duplicates_removed} duplicates, "
+        f"{len(new_jobs)} new to score"
+    )
+
+    # 4) Score only the new, non-paywalled jobs.
     relevant, maybe = filter_jobs(
         new_jobs, profile, AppConfig.from_dict(app_config)
     )
 
     alert(relevant, maybe, app_config, duplicates_removed=duplicates_removed)
 
-    # Persist state for everything we looked at this run (avoid re-scoring
-    # and re-notifying jobs we have already seen).
-    buckets = {job.id: ("relevant" if job in relevant else "maybe") for job in relevant + maybe}
+    # 5) Persist state for everything we processed this run (avoid re-notifying).
+    buckets = {
+        job.id: ("relevant" if job in relevant else "maybe")
+        for job in relevant + maybe
+    }
     for job in unique_jobs:
         state.mark(
             job,
@@ -137,7 +147,10 @@ def run_once(demo_only: bool = False) -> dict:
     state.save()
 
     return {
-        "fetched": len(unique_jobs),
+        "fetched": len(all_jobs),
+        "unique": len(unique_jobs) + skipped_paywall,
+        "paywalled": skipped_paywall,
+        "duplicates": duplicates_removed,
         "new": len(new_jobs),
         "relevant": len(relevant),
         "maybe": len(maybe),
@@ -193,7 +206,7 @@ def main() -> None:
     if args.demo or args.run_once:
         result = run_once(demo_only=args.demo)
         print(
-            f"\nDone: {result['fetched']} unique, {result['new']} new, "
+            f"\nDone: {result['fetched']} fetched, "
             f"{result['relevant']} relevant, {result['maybe']} maybe."
         )
         return

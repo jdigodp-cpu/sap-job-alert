@@ -7,9 +7,11 @@ sources:
     enabled: false        # disabled now that a real source is configured
   rapidapi:
     enabled: true         # real job aggregation via RapidAPI (JSearch)
-    api_key: ""          # set via JOBALERT_RAPIDAPI_KEY env var / GitHub secret
+    api_key: ""          # set via JOBALERT_SOURCES__RAPIDAPI__API_KEY env var / GitHub secret
     engine: "jsearch"     # "jsearch" (LinkedIn/Indeed/Glassdoor agg.) or "techmap"
     country: "in"         # India-focused results (you're in Pune); set "" for global
+  blocked_domains:
+    - "bebee.com"         # paywalled job board — skip entirely
   rss_feeds:
     enabled: false
     urls: []
