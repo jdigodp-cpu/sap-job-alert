@@ -1,0 +1,1222 @@
+{
+  "demo:sap-embedded-analytics-consultant-capgemini": {
+    "title": "SAP Embedded Analytics Consultant (CDS, AMDP, Datasphere)",
+    "company": "Capgemini",
+    "location": "Pune / Remote, India",
+    "url": "https://example.com/jobs/capgemini-sap-embedded-analytics",
+    "source": "demo",
+    "score": 0.0,
+    "bucket": "not_relevant",
+    "notified_at": "2026-11-12T14:36:23.118528+00:00"
+  },
+  "demo:sap-s4hana-abap-cds-developer-accenture": {
+    "title": "Senior SAP S/4HANA ABAP CDS Developer",
+    "company": "Accenture",
+    "location": "Remote, India",
+    "url": "https://example.com/jobs/accenture-sap-abap-cds",
+    "source": "demo",
+    "score": 0.0,
+    "bucket": "not_relevant",
+    "notified_at": "2026-11-12T14:36:23.118528+00:00"
+  },
+  "demo:sap-cds-amdp-developer-infosys": {
+    "title": "SAP CDS Views & AMDP Developer",
+    "company": "Infosys Ltd.",
+    "location": "Pune, India (Hybrid)",
+    "url": "https://example.com/jobs/infosys-sap-cds-amdp",
+    "source": "demo",
+    "score": 0.0,
+    "bucket": "not_relevant",
+    "notified_at": "2026-11-12T14:36:23.118528+00:00"
+  },
+  "demo:sap-sac-datasphere-consultant-deloitte": {
+    "title": "SAP Analytics Cloud & Datasphere Consultant",
+    "company": "Deloitte",
+    "location": "Remote",
+    "url": "https://example.com/jobs/deloitte-sac-datasphere",
+    "source": "demo",
+    "score": 0.0,
+    "bucket": "not_relevant",
+    "notified_at": "2026-11-12T14:36:23.118528+00:00"
+  },
+  "demo:java-spring-boot-developer-tcs": {
+    "title": "Senior Java Spring Boot Developer",
+    "company": "TCS",
+    "location": "Bangalore, India",
+    "url": "https://example.com/jobs/tcs-java-spring",
+    "source": "demo",
+    "score": 0.0,
+    "bucket": "not_relevant",
+    "notified_at": "2026-11-12T14:36:23.118528+00:00"
+  },
+  "demo:marketing-executive": {
+    "title": "Marketing Executive",
+    "company": "ABC Retail",
+    "location": "Mumbai, India",
+    "url": "https://example.com/jobs/marketing",
+    "source": "demo",
+    "score": 0.0,
+    "bucket": "not_relevant",
+    "notified_at": "2026-11-12T14:36:23.118528+00:00"
+  },
+  "rapidapi:jsearch:RlEyLUlBWnhxSXJQNFlnQkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZaTB3T0hjeFVrNXVXblprTmxsNmEydFZWSGRJTUhFMFEyRkRVbVpqUWtSaVZGTjZNM1ZYUVZWVFRrRnJSRnBITjBSV1Rrc3diMk5GYUdoUFJFOVZPUzF2ZG5sTU1tTmlaMUY2TUhBd01TMVpWMnBYUkhBM1lYbHNRVWRwVm1ORVNYTjJUR1ZOUzJjNVYxSm9hWGhzWTNOYWJ6bDFWWGhUUTFVeFdtMDRabFZNZURoNE9URVNGMnRPU0RGaGRqWllTR1l6UXpWUFZWQTRZVFpsYjFGWkdpSkJTRTR3UlRkSVNqQndjMFZpVm5wTFZsQnpXVjkzUVZkeVMySTNVVmh0WWxwQjpkZjFhYTNjNQ": {
+    "title": "Sap Abap, Btp",
+    "company": "ConnexR Solutions",
+    "location": "Chennai, Tamil Nadu, IN",
+    "url": "https://bebee.com/in/jobs/sap-abap-btp-connexr-solutions-chennai--ss-in-1r6lhnj",
+    "source": "rapidapi",
+    "score": 0.825,
+    "bucket": "relevant",
+    "notified_at": "2026-11-12T14:48:28.126507+00:00"
+  },
+  "rapidapi:jsearch:ZjYyLWk4MXhKeXZuMnNCa0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXbmhzUVZWS1h6Tk9hWFpFWDIxTFJqTmthazFGZFVOdlRrVnJSazVKYVhKdGFreGhhbUp6U2pGWk1YRnVVa2xxYTFoZmVVVXlSSEY0V0haZlluRnBja2g0YkdwbWVqVjVNbFUxVFVaSlNFcFVRbkpHTkU5NWJHMHdOakZ5TkhwU05HeFVibGQwUm1Nd2NqZGhSVFJzVGxseloxUnBUMVl6VUZwVmNGSjBWMWhIYTNoV1pVNFNGMnM1U0RGaGRtWkNUMDU2VVdoaVNWQnBUemRoTFZFNEdpSkJTRTR3UlRkR1VqQlJjakprTkVkalozaDZXVEpvVDBoSWNGaEJUR3hFTWtwMzo4MDExMmVjMg": {
+    "title": "SAP Commissions Embedded Analytics Configurator-Senior",
+    "company": "EY",
+    "location": "Karnataka, IN",
+    "url": "https://in.indeed.com/viewjob?jk=e3789c01042296bc",
+    "source": "rapidapi",
+    "score": 0.658,
+    "bucket": "relevant",
+    "notified_at": "2026-11-12T14:48:28.126507+00:00"
+  },
+  "rapidapi:jsearch:b1lqN3k0UzViYnM2eW92d0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXWEpLU2xOTFEyNDRjRzlLWjFaWE9Ea3liMlU0YWtjMVIxVnVUakpZWkhWT2FIZE1VVEZPYjJRM09YUlNkMUowU1VOb1ZWUkNNSGR5Yms5Q1pqUktlbGt3Y21OaU1FZElPVVp2UlVaMk9YRlhabVpGVWtwQk4wbExjRUpUVmpKbVJVbEhWbVJZUkVab1RtTTNjak5rYTJ0NVQwZ3hSREV4VFROT1IxRndTa1JLUkZwVmMyc1NGMnM1U0RGaGRtWkNUMDU2VVdoaVNWQnBUemRoTFZFNEdpSkJTRTR3UlRkR1ZucDRRVEpGZDFjdGJYQkphRWRvTmtaSE4yVjVRbkV5YTBKUjo4MDExMmVjMg": {
+    "title": "SAP Commissions Embedded Analytics Configurator-Senior",
+    "company": "EY",
+    "location": "Bengaluru, Karnataka, IN",
+    "url": "https://www.simplyhired.co.in/job/EUXaHRmedJesuEml0vhgIuV1oxjwpxZcBvHwUqMrIAInJSL8JKOWPg",
+    "source": "rapidapi",
+    "score": 0.658,
+    "bucket": "relevant",
+    "notified_at": "2026-11-12T14:48:28.126507+00:00"
+  },
+  "rapidapi:jsearch:LS1YVjJWWDllY2s0Q21meUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXWEpoWm5SRmNrSmtibkJ3TUhoZlRucFVhRmR0YjNsVWIzcHRValZMYjNCWFdXUXdkRU41WVdsaFdWOW5lWGxYZFdOSVNFWjBOa3MxUlVSaU1HMXVSakZIU0ZaVVprZGxPVVZvY2pkcmJtaHBRVXg1VUZKb1ZWbDBRMTk2TkdKcExYRlVVVEIxTlZobFVIQnZOVmR2Ukc4eFdsazFhRU5CV1dsR1kydzVWMTgzZVY5aFVuVVNGMnM1U0RGaGRtWkNUMDU2VVdoaVNWQnBUemRoTFZFNEdpSkJTRTR3UlRkR1VHMHpWVFpSV21wRmRHMTZObTQyV1haS1IyOXlabWw2VFhWbjpmZjYzNjIyMQ": {
+    "title": "SAP SAC Developer Reporting & Embedded Analytics.",
+    "company": "CYAN360",
+    "location": "IN",
+    "url": "https://www.foundit.in/job/sap-sac-developer-reporting-embedded-analytics-cyan360-india-69780555",
+    "source": "rapidapi",
+    "score": 0.658,
+    "bucket": "relevant",
+    "notified_at": "2026-11-12T14:48:28.126507+00:00"
+  },
+  "rapidapi:jsearch:TkZLZmRXSWpjdklzZmhITUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZWEl3UjJ0UU1sbFhOMlJyWjBoTVRWZHdkRmRZU2twbFJVOTBlSGRpUVVkT1JEaDVaVGhRUVZkUU5uRkVZVkpEV2s1d04wMHlXRmRZUmxGNVpFUnVkMHhITkhwalJFRkxaelpNVTBkNkxXSnNZV1pUV0RKRVpUQkRSME5GZFVSNk1rMXVNbE5RZUcwek5IWmtVVzkyTm5ScGRWWmZiekZwTjJFMlJEWkJNWGRXY0ZGUmNVSVNGMjEwU0RGaGMwODRUM0Z4WVdoaVNWQjRPSGs1YjBGVkdpSkJTRTR3UlRkR1NrNXJNMXBTYnpWVWNHZDBUMnRQU2tnMFpEQmpVM1ZpTVZkbjpiOTY5N2U4Zg": {
+    "title": "584218_SAP Analytics Cloud & Datasphere Consultant",
+    "company": "Trigent Software",
+    "location": "IN",
+    "url": "https://bebee.com/in/jobs/584218-sap-analytics-cloud-datasphere-consultant-trigent-software--ss-in-17eo6uo",
+    "source": "rapidapi",
+    "score": 0.33,
+    "bucket": "not_relevant",
+    "notified_at": "2026-11-12T14:48:28.126507+00:00"
+  },
+  "rapidapi:jsearch:d2thRmVKUEhFVzFiZTBiUUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZbmxUU1hNemNYRklaMVI1TlhKTVlrVmhZMDR0YVZKUVVVcE5jR0UyYUZKSldsSnhMVEZwTTNKTk16Um5TMEZ1ZWtKSGNDMUdaMkl3U2pWS1gzWm9hV3g0TVY5cVVYcDRXakJWZEZObVRFdHpXVGhDTlRWMWFYVkhTMFp5WDFjeVpqWktNbkZaY1ROSE5tSllibFF0VDJkTFRGUkVWbmRhTFdWdFdrMU9aRFJvVjFONk1GZ1NGMjEwU0RGaGMwODRUM0Z4WVdoaVNWQjRPSGs1YjBGVkdpSkJTRTR3UlRkSVpXd3RibkJwVjJ0clNURlNSSEJFUzFoaWNFWXdZMjl0UTJkUjo3YmMwNWM1Nw": {
+    "title": "SAP Analytics Cloud & Datasphere Consultant (Chennai)",
+    "company": "Virtusa",
+    "location": "Chennai, Tamil Nadu, IN",
+    "url": "https://in.jobrapido.com/jobpreview/3649588640545243136",
+    "source": "rapidapi",
+    "score": 0.825,
+    "bucket": "relevant",
+    "notified_at": "2026-11-12T14:48:28.126507+00:00"
+  },
+  "rapidapi:jsearch:V0tIdnNNcWVsN0JsckFSZUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXbE0yU1RCS2FWazFNRE4wZDB0NGQyRm5hRzFOTFZSVmRUUjVTMlIwYW1WT2RqTlFUbVp0Y0RKVVlYQnFUVXRMWjFKVVlVMHhVRmRZWkhOdFduQnpiakZhZWpadWRFdzJUMEpmT0ZONWMxVXdka0U0V2tKVGJqTXdXWEZZVFhkQllsWnBUMDlqVjBkQmNsZzBURkEwUm5BeFpFeEhTSFpUYTA5dlJ6UXhNa0p2YW5SU2QwOFNGMjEwU0RGaGMwODRUM0Z4WVdoaVNWQjRPSGs1YjBGVkdpSkJTRTR3UlRkSE5VZDFUMnRwZEhwNFJFRnhWbmcwVUVKZmRYTlliRnA0VTNaMzpmMGYzMGRhYw": {
+    "title": "SAC UX Developer / Datasphere Developer",
+    "company": "Fusion Consulting",
+    "location": "",
+    "url": "https://jobgether.com/offer/6af3392f1b1a9ee7d65f0192-sac-ux-developer-datasphere-developer",
+    "source": "rapidapi",
+    "score": 0.33,
+    "bucket": "not_relevant",
+    "notified_at": "2026-11-12T14:48:28.126507+00:00"
+  },
+  "rapidapi:jsearch:dGM3Z19RWGdoLVVDU0lkbUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXVEZXWlU0MlNGaDZRVlIxU25OVVFXOHlkVWhmVEZwU1lXMXFWQzF0YVUxVlgzZG1UazEyTURaaFNUaDZUMGhtUWtkeVRESlBlVXRXU21aeVJVbElPVmRTVUV4aU56aDNhSGhFZGxRMFdrcG9la0U1TFRJeFIwSjBiWFoxUlVrMFRWSnNlVlpTYVhWc1RrdzRWM0Z1WTJOTFVtSjVNRzlDYkZsR1ZuRmZaSEI1VW5CNFpFVVNGMjEwU0RGaGMwODRUM0Z4WVdoaVNWQjRPSGs1YjBGVkdpSkJTRTR3UlRkSU4yVk5RM1ZHYzJoNFpGOUpSa2hUWW1oV1FUWnNNR0pHVjNGQjpmOGY3ZmVjNQ": {
+    "title": "Senior Product Specialist",
+    "company": "HCLTech",
+    "location": "Indergarh, Uttar Pradesh, IN",
+    "url": "https://www.simplyhired.co.in/job/L31nPKoDMrD0in0bpwly5oFeZOhqTRxoaNmTxTW9BmqsmAEm_wyByw",
+    "source": "rapidapi",
+    "score": 0.508,
+    "bucket": "maybe",
+    "notified_at": "2026-11-12T14:48:28.126507+00:00"
+  },
+  "rapidapi:jsearch:djc1c0VhN1FCR1c5M0l5aEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXbDkxYkZaaGJVdFhZMHQ1UVhkRVVEUnhPV1JxZW1oYU9GWTJNVk5xU214eVpHSnFiMFZDV1RSaWFVb3RWVzlIUTA5SFh6UnVZMnQ1TFRoTE5WQmpNMEp0V1d3NFQzQkViekpEVDJsZldIbHhhRk5xYkZoNlZVWlJPREZIVkd3NVpIRlBNbFkzUkY5S05WOW1TelZ5TjNsaWNuUjRjMlZhZEhwMWRqazBTMVpvVUhkM05Ib1NGMjlrU0RGaGRYcGlTelZpUTNaeU1GQnpOSFpHTUZGWkdpSkJTRTR3UlRkR1pFSlZRVE4yUkV0Vk5XeEtSalJSVG5KblpGVmphbk5QTkcxMzpiYmU4ZjZkMA": {
+    "title": "SAP ABAP Developer - Abap ON Hana, Amdp, CDS Views",
+    "company": "Innovative Information Technologies, Inc.",
+    "location": "Bengaluru, Karnataka, IN",
+    "url": "https://bebee.com/in/jobs/sap-abap-developer-abap-on-hana-amdp-cds-views-innovative-information-technologies-inc-bengaluru--fj-2463515162",
+    "source": "rapidapi",
+    "score": 0.825,
+    "bucket": "relevant",
+    "notified_at": "2026-11-12T14:48:28.126507+00:00"
+  },
+  "rapidapi:jsearch:bVdRaDRGODMtakxFdVlpLUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZVGhWT1hJeFUyMVNUMVYyYkRKUlkzTk1WMW94VjBGWVkyUldXa3BPYm5RM05rdzBkV0ZmTFdFeGJWOTZRbE0zTm1wTGVqSjFUWFU1TUY5dk0wVTBaVTFyYmxZMFozRkxNbTFzZUVkWE0wVmFhVzFqV1hVd1JIRkJXakp0V1dsRmRuQkJiakpVVDFwZldpMHdWRnBqU1VrM2VXbElaMDl4V0dSTmVFaFZMV3RvWVY5NlVsa1NGMjlrU0RGaGRYcGlTelZpUTNaeU1GQnpOSFpHTUZGWkdpSkJTRTR3UlRkSVMwTkxUMHBQWkZKdU0wTnVjWGxVTFZNMWFESTFPV05HVTA1Ujo2YjIyMDA4NQ": {
+    "title": "SAP ABAP RAP Developer (SA - Senior Associate / M - Manager)",
+    "company": "WalkingTree Technologies",
+    "location": "Mumbai, Maharashtra, IN",
+    "url": "https://www.simplyhired.co.in/job/HZaXCSYm2RdRYlaFKlebPsXJH4M-GaVj3-P24O2ZYknvp0nukG7X4A",
+    "source": "rapidapi",
+    "score": 0.825,
+    "bucket": "relevant",
+    "notified_at": "2026-11-12T14:48:28.126507+00:00"
+  },
+  "rapidapi:jsearch:MlZMUmlXT3ZIZkt6UFc3M0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXazU2ZUdJMk1IQkdha2N4VTJ0bFdEUTVSMjlXWm05TlVucDRWVGhMZWxOVVp6VjFkV05oTms5dk0wdGFjMXB5Vm1JNWFsaDFSRFF0TmxsWE9VTTNOMjFQWTNWcGNTMWZhakZFVFd4VFJUWlRNVTE0UWpGUGJGSlVUVWhDTFZSaGVrSnRSMGRaVXpJMGJsRlBkMFYyVTFkeVQyTlBURFZZUldwdUxXTkNZa2g2UTJOV1pFUVNGMjlrU0RGaGRYcGlTelZpUTNaeU1GQnpOSFpHTUZGWkdpSkJTRTR3UlRkRlVTMHRVbUZUUjFwcFJqTTRlVjg0U0RaT1ZsZDFTRGxrVlVwbjpkMjQ4ODVkMQ": {
+    "title": "SAP ABAP Developer - SAP Abap ON Hana, RAP Framework, Abap Cloud",
+    "company": "Innovative Information Technologies",
+    "location": "Bengaluru, Karnataka, IN",
+    "url": "https://www.shine.com/jobs/sap-abap-developer-sap-abap-on-hana-rap-framework-abap-cloud/innovative-information-technologies/20047444",
+    "source": "rapidapi",
+    "score": 0.825,
+    "bucket": "relevant",
+    "notified_at": "2026-11-12T14:48:28.126507+00:00"
+  },
+  "rapidapi:jsearch:cHJmMEV3c0dTSDMzMS1raEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZVU5XY21GbFZrdGpVVzk2ZVUxV2NuUjFZWHBVUWtGQmRGcGllSEJSY1dOdVQxSjNhR050WTJzelVIVmhiSGxrVFdweldGQkhWakpoWDJOQ09GWTBjRlJ4V0UweFQzQnZhMVZpWDBzMFVXYzNWRUV4VFRORGFYVndjemg1UkhBeWEwRnJkMDFEZFdwQ1pWRXRPVE5wYm1GR1Z6bDBkaTF4YW5CRk4xZEpTVEZmUkhWbk1IQVNGMjlrU0RGaGRYcGlTelZpUTNaeU1GQnpOSFpHTUZGWkdpSkJTRTR3UlRkSVJscFpSakl6U25WclFsRkJVMDB6VXpobU9UQjBZVU01WkhabjpiMDI3YzI5Ng": {
+    "title": "Opening For SAP ABAP with RAP (Delhi)",
+    "company": "Tekskills",
+    "location": "New Delhi, Delhi, IN",
+    "url": "https://in.jobrapido.com/jobpreview/1177712778467606528",
+    "source": "rapidapi",
+    "score": 0.825,
+    "bucket": "relevant",
+    "notified_at": "2026-11-12T14:48:28.126507+00:00"
+  },
+  "rapidapi:jsearch:RlEyLUlBWnhxSXJQNFlnQkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZbW8wYlZJemVubERlRFZaWm01QmJtTklRMHBOWkZCTUxUWTRiRVZuWnpSaU9ISkxSalp0U1VsR0xWWk5OWE5CYUdSNVVtTldNbVE1VG5aelVHd3dORU4wU1hSTWQwdERXR0pVY210ck56Tk5lazFTZEZKeU5UQkxhVGxyVUd4bldHNVhlVVZTYTJaYWRXdHBaRTR0VEVaMGRTMDBUa3A0V1ZaRFpWcDNUbW8wYm1KRlpXWVNGMjlrU0RGaGRYcGlTelZpUTNaeU1GQnpOSFpHTUZGWkdpSkJTRTR3UlRkSFJVRkxTRXhNY2t0clFtczBTblJEVm5oVWFqVTNlR1JrWlVKMzpkZjFhYTNjNQ": {
+    "title": "Sap Abap, Btp",
+    "company": "ConnexR Solutions",
+    "location": "Chennai, Tamil Nadu, IN",
+    "url": "https://bebee.com/in/jobs/sap-abap-btp-connexr-solutions-chennai--ss-in-1r6lhnj",
+    "source": "rapidapi",
+    "score": 0.825,
+    "bucket": "relevant",
+    "notified_at": "2026-11-12T14:48:28.126507+00:00"
+  },
+  "rapidapi:jsearch:ZS1IMklJazM5cHN4bWh6c0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZbWw0UlVOUlRYTlFZelIyZUVSTFMweElObEZtYzNwMFJUWmxjMHd3UTJGd09FaHlTbTlIVEZSNmREaG5Na2MyYlZweVIweFlVbEEwUjNaSE9ERXdWM1JWWldsclN6VlBVMFUyUW1oMmJERkxXbTVDVjA1SWRqQlZiWFJVUlVneFZIcFBjRmhsWjBaRVJFcFJSSGhVVTIxMVRHZFNVMVl5TlhkWGFtdG5jakk0UzB0dlJsTVNGM0owU0RGaGRtVk9TWE5YYUdoMlkxQmZkVVJXYzBGbkdpSkJTRTR3UlRkRmNUTTBVa0ZqZVVRdFNuaFFWSFJsYjBwbE5GQjRWVFk0V0RGQjo5N2JkYzQ4Mg": {
+    "title": "SAP FIORI Lead Consultant - Enterprise Apps",
+    "company": "Birlasoft Limited",
+    "location": "Pune, Maharashtra, IN",
+    "url": "https://jobs.birlasoft.com/job/Pune-SAP-FIORI-Lead-Consultant-Enterprise-Apps-INDI/57133844/",
+    "source": "rapidapi",
+    "score": 0.953,
+    "bucket": "relevant",
+    "notified_at": "2026-11-12T14:48:28.126507+00:00"
+  },
+  "rapidapi:jsearch:TkZLZmRXSWpjdklzZmhITUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZVzV5YTNGdlJTMDVhVWhEZG1vMVEycDZMVGxDZGtKTlkwOWlkRkJ6YTJGbFpEQTBSRGR0VVZCQlMyTTRPVUpTZVhab1FuaG5hRWR2YjA5alIwVkJNekpsTlhoTE9TMUVjM2hKZUROR2VuUk1hWGgyU1V4WlNFTmxibFF0TmtGdGFWQXpUVGd3TkdwQmRVaEtRMnhpTnpCWGJGRjNPV0pRUVRGa2VFZFBYMHRITFhVd1QxRVNGM001U0RGaGNHWlJUeTE2VERKeWIxQXRZV1puTFVFd0dpSkJTRTR3UlRkR1QxYzRjMVJDWDJoME5ubHlTMDl0Ym1wdFEzSndXak5xVEhCUjpiOTY5N2U4Zg": {
+    "title": "584218_SAP Analytics Cloud & Datasphere Consultant",
+    "company": "Trigent Software",
+    "location": "IN",
+    "url": "https://bebee.com/in/jobs/584218-sap-analytics-cloud-datasphere-consultant-trigent-software--ss-in-17eo6uo",
+    "source": "rapidapi",
+    "score": 0.33,
+    "bucket": "not_relevant",
+    "notified_at": "2026-11-12T14:48:28.126507+00:00"
+  },
+  "rapidapi:jsearch:LS1YVjJWWDllY2s0Q21meUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXVTU1Y1dZeVpsQTJSRTlmVVhJek5tRklVVFF0WDNKcVJVcFVXVXRKUkVkcVpHbHlMV05sV1c0Mk5XSk9jamhFVVRaUFVYaHBXRmRtWW5CalFUbEhkaTFQZVZsaWNqVjRUeTE2UnpONlJGaGZRa05vUW1WcmNXRlpkMEZ6Tmt4R2VXTlpaR2RrY3paaVMxUlVOblJOVFVSemJVMHRSMnBITkVkdFkzaEJaREYzUzJaM1YxVVNGM001U0RGaGNHWlJUeTE2VERKeWIxQXRZV1puTFVFd0dpSkJTRTR3UlRkR2FDMU5PVE5VUkdnd0xUVXlORmhRTjNvek9XODFUVmRDZEVaQjpmZjYzNjIyMQ": {
+    "title": "SAP SAC Developer Reporting & Embedded Analytics.",
+    "company": "CYAN360",
+    "location": "IN",
+    "url": "https://www.foundit.in/job/sap-sac-developer-reporting-embedded-analytics-cyan360-india-69780555",
+    "source": "rapidapi",
+    "score": 0.658,
+    "bucket": "relevant",
+    "notified_at": "2026-11-12T14:48:28.126507+00:00"
+  },
+  "rapidapi:jsearch:bkxtYWNyRElSbnBqNkZQNUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXVk5KTm1selNTMTRTVWRMYlhOSmIxTXRlRXRxVVRoek1ETlZXbVZ1WlhGbk9FUjZWazVRWm1wdExVNU5aa3RrWlRJNE9FOVZjSGRaZEhkU1RESjNObFpzWWxSeVpYSjVlVEpoUzNSdU0yMHpTek14UkdwTU5tTXdlR1JqZW1GSGQzbDNTelZqZDNrdE0wVkpiVVo1VURORVppMDFlV0oxZFZJeFJXOURWRTV5Ym5SYVdsRVNGM001U0RGaGNHWlJUeTE2VERKeWIxQXRZV1puTFVFd0dpSkJTRTR3UlRkSWFGQmlOR05HUmtWeFZWUkZOMFJ6UWtkNVIyMVNaekl0ZWtsQjpiOTBjNmU4NA": {
+    "title": "SAP Analytics Cloud Planning - Senior Associate",
+    "company": "PwC Acceleration Center India",
+    "location": "Bengaluru, Karnataka, IN",
+    "url": "https://in.linkedin.com/jobs/view/sap-analytics-cloud-planning-senior-associate-at-pwc-acceleration-center-india-4478261804",
+    "source": "rapidapi",
+    "score": 0.658,
+    "bucket": "relevant",
+    "notified_at": "2026-11-12T14:48:28.126507+00:00"
+  },
+  "rapidapi:jsearch:d2thRmVKUEhFVzFiZTBiUUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXVWhWYm1KSmFVTnNUbXgwWVhGak9XZEdWVjlMUms1b1lWOUZUWEJFT0RoWFprVm1ZbWhaWDFsSUxXOWFSbmRLUkRodVdrMUZVWGhIWkhSRWVFZHVjRzFEWlRVMWNISTJkWFZZZEV4MlMwcFhlVlJKWDAxMFNHdzVkVXAzV2treVVuQktiWHAxWVcxTlZGTmhRWEpVTWpseFV6TnFURE5NVURVeE1GVnRaRVZXYzBSaFVqTVNGM001U0RGaGNHWlJUeTE2VERKeWIxQXRZV1puTFVFd0dpSkJTRTR3UlRkSE1ESlBObVZZZFhKTVV6SjBSbUowTlhWWmRrMDJkakZNYm10Ujo3YmMwNWM1Nw": {
+    "title": "SAP Analytics Cloud & Datasphere Consultant (Chennai)",
+    "company": "Virtusa",
+    "location": "Chennai, Tamil Nadu, IN",
+    "url": "https://in.jobrapido.com/jobpreview/3649588640545243136",
+    "source": "rapidapi",
+    "score": 0.825,
+    "bucket": "relevant",
+    "notified_at": "2026-11-12T14:48:28.126507+00:00"
+  },
+  "rapidapi:jsearch:YkxwNXBoOGJROFdsV0xvREFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXVTV3ZWpWZmNsbE5aa2hHWmtwaGMwVkZVV2RzTVZkdmNHMVRWRGRYYkdFeWNtTlNNa1o0UlVreGMwZEpjVk5xVkc1c1pteERZalpUU3pKVk5YZDJNSG8zZW1WNFNHSkRURUZFUW5sNE4yTllaMVJXWTNwblYyRnZTRlpuZDI4eVowUm1SVmRJZWxoc1NEQlVWV2hTVEdKVVdFUXpkMlpSUVc4d1FWRTBlRTlMUmxsTFRYTVNGM001U0RGaGNHWlJUeTE2VERKeWIxQXRZV1puTFVFd0dpSkJTRTR3UlRkR1ltc3pZWGN4WlhFNU9HRkZha0l6Y0ZGemVVaFdhVmQxVHpOMzo5MDliZmU5NQ": {
+    "title": "SAP SAC Planning Lead (Pune)",
+    "company": "Recognized",
+    "location": "Pune, Maharashtra, IN",
+    "url": "https://in.jobrapido.com/jobpreview/1455626162137989120",
+    "source": "rapidapi",
+    "score": 0.619,
+    "bucket": "relevant",
+    "notified_at": "2026-11-12T14:48:28.126507+00:00"
+  },
+  "rapidapi:jsearch:eDlDS19SeEJUM3NsUDR3ZEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXVWRVUTJsdFlsUnlVbmd6TXpkMmFqWlRURnBGY2t0eFpWSnRRVVpYVDFWR1pFMUZVMll5VmsxNE0wRnNjbEpXUkU1VFdFTXpjRGxSZVRaT09YcFNUMk14VG5aMk5qaG1kMVZWTXpSdGExOXFkSE5FWTNKU01XeFpZMHhxWW5SMWMyRlhSVEExY21adGFGaEJTemg0VlhSVUxVUnhWakJmTjE5eVl6VkdjVUpKTXpkVVVtSVNGM001U0RGaGNHWlJUeTE2VERKeWIxQXRZV1puTFVFd0dpSkJTRTR3UlRkSVVGQjFhakoxTTJSWU5rbHFhVk54ZDAwMVYybGZkVXhQZFRGMzo2NTY2ODM5Yg": {
+    "title": "Package Consultant-SAP BW HANA Analytics (Hyderabad)",
+    "company": "IBM",
+    "location": "Hyderabad, Telangana, IN",
+    "url": "https://in.jobrapido.com/jobpreview/4915311242068885504",
+    "source": "rapidapi",
+    "score": 0.658,
+    "bucket": "relevant",
+    "notified_at": "2026-11-12T14:48:28.126507+00:00"
+  },
+  "rapidapi:jsearch:NkpxbzFCY1pjMDhyQzVmLUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXVmQwWDA4MVUyTXhjamszTlVOWWVqSm1lVFJ1YUU5TlNHSndTV0ZGTjBsb1gwWlpZa1pLWWtReGRqWmZORGxqY0ZVeVIyRmtkMGMyYm5WMVNsZGFNV1pGTFRWbFRFcE1XVWxJYlhOUVZVRkhkVmcyUTBOdGVURnRYMUZyVldNNFFVRjZiR013TkVObGJqVldja3hzVVVOek16aHdhVzVzUjBoWGMzUkxSSFF0U0c5cVlUVVNGM001U0RGaGNHWlJUeTE2VERKeWIxQXRZV1puTFVFd0dpSkJTRTR3UlRkSGFGQXpTbFZHYm1wS05VVldaa1IzWlhKR1pYWmlUMVZSUWxCbjphMDE0NzIwZg": {
+    "title": "SAP BW/4HANA & Power BI Specialist",
+    "company": "Pradeepit Global Consulting Private Limited",
+    "location": "Bengaluru, Karnataka, IN",
+    "url": "https://apna.co/job/bengaluru/sap-bw-4hana-and-power-bi-specialist-1174795664",
+    "source": "rapidapi",
+    "score": 0.658,
+    "bucket": "relevant",
+    "notified_at": "2026-11-12T14:48:28.126507+00:00"
+  },
+  "rapidapi:jsearch:V0tIdnNNcWVsN0JsckFSZUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXVEkzZVdwSVdUZGxabnBQVFdobE5FMUtSRTltUlhNNFlYbEpValkyUmxSMlJEWkpRM2h0T1MwNVFWRllXbkJMTjJScGFHSm1lRFV5VlVKT1ZuVXlVVTlJVEVGcWJGcGpNMTlzTTA1S1FreGxVbEpPTmt3NGVUQTRhemxWT1ROMFZWRk1NemhOTkVKcFNuQnJaMk5FTWxvelpqTlpPV2xuT0VWZlNteExVV1pvYmpWaU1Xb1NGM001U0RGaGNHWlJUeTE2VERKeWIxQXRZV1puTFVFd0dpSkJTRTR3UlRkSWRURnlSMGxIYVRKWmIwcFpSRnB0ZVRSdGRtbEtVM1V3YlZwQjpmMGYzMGRhYw": {
+    "title": "SAC UX Developer / Datasphere Developer",
+    "company": "Fusion Consulting",
+    "location": "",
+    "url": "https://jobgether.com/offer/6af3392f1b1a9ee7d65f0192-sac-ux-developer-datasphere-developer",
+    "source": "rapidapi",
+    "score": 0.33,
+    "bucket": "not_relevant",
+    "notified_at": "2026-11-12T14:48:28.126507+00:00"
+  },
+  "rapidapi:jsearch:OEMzc05JNy1xUjVKeEs5TUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXbDkwVkdvM2VIaEhYMHhJVjA1c1JVWkdZM2RVTTI5aGVUZG1SazV1ZWpoUVFWVjBUMUIzY0VaRVduSnlkbkUyVVRKSVlqUkpUM2RMZEZac1gwZFRlbG90V2xoYVJsQm1jMWRDUTJ0WVFtRmpZa05XUzFVemVqUlZWR2hwVmkwd2JFeFNWamx3YVZCdVgySkJNbTVqYkhodmIySjBiSEEwVjI4M2NUTnFkSEEzWVcxdlRIWVNGM001U0RGaGNHWlJUeTE2VERKeWIxQXRZV1puTFVFd0dpSkJTRTR3UlRkSWFuaENURTR0U1dOR1dXTm1WR1JMVnpKNFowOXRNRE54V1ZkbjowNzcwNzUwNA": {
+    "title": "SAP BDC-DSP-Manager",
+    "company": "Analytics Legends",
+    "location": "Ernakulam, Keralam, IN",
+    "url": "https://www.jobleads.com/in/job/sap-bdc-dsp-manager--ernakulam--e543322c392aed0056df971a3a9d18603",
+    "source": "rapidapi",
+    "score": 0.658,
+    "bucket": "relevant",
+    "notified_at": "2026-11-12T14:48:28.126507+00:00"
+  },
+  "rapidapi:jsearch:OF9Bb2NZQlU0YzRRTWVtVUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXV2hLVFZnellsUlFTVGgyVnpSeFIzWllVek5uTm05SlExcHRWMncwY2twM1pHSm5aa2x3VmpCMGNUWXRNMEpoUmxGbGREbFZjazVCY1V4bFdqZDFTbk5OYWs4eFNEbG1ablI0TUZVeWRUQkVTalZETWkxTmNTMXBUVzlmZURobVpFZHRTMTlKY0dKVVYwdG1NMDFCV1Zkdk9HbFBka3B3UWpadmNVUXhMVEV4UjFkU2VFSVNGM001U0RGaGNHWlJUeTE2VERKeWIxQXRZV1puTFVFd0dpSkJTRTR3UlRkSFNYZzVNV2xuYUdGeFltdHhNSG93UkVGSE9FeFhWSEEyU0ZWUjpmYzcxZTdhMQ": {
+    "title": "Sap analytics cloud",
+    "company": "Telecommunications TALENT IT SOLUTIONS",
+    "location": "Amritsar, Punjab, IN",
+    "url": "https://talentsjobs.in/sap-analytics-cloud-talent-it-solutions-0-to-8-years-173211",
+    "source": "rapidapi",
+    "score": 0.492,
+    "bucket": "maybe",
+    "notified_at": "2026-11-12T14:48:28.126507+00:00"
+  },
+  "rapidapi:jsearch:SHhHNnBsbzFPa3VpRm02WEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZVGRLTXpoM05VVnRiRjh6TjJsSVdXSmhZalV3VGxKeVYxbFFiMm95ZFRsR1VUVlpaemhZY1ZSMWJUUkxYMHRrUWxFdGFTMVBTVWxGUms1dWJDMVZiR1V6YTI0MVFrMUZiR3hGVkY5cFFqQnVSbkU1TjA5NmEwMW5NVTVsY2pacWEzaHpZMHBJV0VkMFYzbHBPRmxvTWtkcVRWRTBZMWxDV1hSS1MxVTNjVVJLVUVOdmIwNFNGM1ZrU0RGaGNtMDJTazVMYm5GMGMxQnZUVkJqZFVGakdpSkJTRTR3UlRkR2FrRTBRV1JPUWxwS09FWXhNRlp2WXpKUFIwOTJkREJmV2xkMzo3ZDg4YzUwNA": {
+    "title": "Package Consultant-SAP HANA SCM MM",
+    "company": "IBM",
+    "location": "IN",
+    "url": "https://in.linkedin.com/jobs/view/package-consultant-sap-hana-scm-mm-at-ibm-4488206648",
+    "source": "rapidapi",
+    "score": 0.492,
+    "bucket": "maybe",
+    "notified_at": "2026-11-12T14:48:28.126507+00:00"
+  },
+  "rapidapi:jsearch:WkhiZWpUWGJHelhpUUxvWEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXa2gzWlhGQ1NWQmtaWEV6YlU5dGVWVllTSFZIUzBsS2VtSTJaR0V3UmsxcE9EaEViV2xaVTBaaFlVZ3pOblp2YW05TGRtRnlXbTFFVkhscVVuSlBSRTFTYWpCU1VubEdUR1phTFRsT1l6QkpjVkJuTmxOVE1rWmFTM1JTYURseVVXaG9UekJRZDJFeWJ6bE1NVlJJU2xKMGMxTlZSMGxyYUMxRWJEUmtiMlpFVUhwTWFVMFNGM1ZrU0RGaGNtMDJTazVMYm5GMGMxQnZUVkJqZFVGakdpSkJTRTR3UlRkRllsOUdNbFJ6Y1V4amFIZzRaVmM0Y2s5cldIWlNZMGt3Vm10Mzo3ZDg4YzUwNA": {
+    "title": "Package Consultant-SAP HANA SCM MM",
+    "company": "IBM",
+    "location": "Hyderabad, Telangana, IN",
+    "url": "https://in.linkedin.com/jobs/view/package-consultant-sap-hana-scm-mm-at-ibm-4487846451",
+    "source": "rapidapi",
+    "score": 0.492,
+    "bucket": "maybe",
+    "notified_at": "2026-11-12T14:48:28.126507+00:00"
+  },
+  "rapidapi:jsearch:XzRESU91bGVYRFpfMFpsdEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZalZrTld4blRFaG1kVTFUU1RScE4wZDJZWFJVY21RNVJWZHhObGhzVmpKcFgyYzVlblZVT0hWRVMzTkdYMTlhUW1Zd1RsODNZMkptZVdaNFlWZE1WM1ZIWVZoQmNrczBkMFUzWkRadFRuWmxjV2xuVlRZelUwcG9RMkpMVDNVM2IzZHNYMlJrYVVWQ1pIcHJTa3BMUVdZdGNGTnFNbmxHT0c5T01VVktPRWw2VWtwc1RVZ1NGM1ZrU0RGaGNtMDJTazVMYm5GMGMxQnZUVkJqZFVGakdpSkJTRTR3UlRkR1gxWnNNVlpvYldsMFdFRjRaWE55UVY5TFRYVnJjaTB6ZEd0bjplODMwMGI2Nw": {
+    "title": "Package Consultant-SAP HANA Master Data Governance",
+    "company": "IBM",
+    "location": "Ahmedabad, Gujarat, IN",
+    "url": "https://in.linkedin.com/jobs/view/package-consultant-sap-hana-master-data-governance-at-ibm-4487858079",
+    "source": "rapidapi",
+    "score": 0.492,
+    "bucket": "maybe",
+    "notified_at": "2026-11-12T14:48:28.126507+00:00"
+  },
+  "rapidapi:jsearch:dnB2c3BLbXFkc29rZEN5S0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZVWxKWkZSdWNuSllOVTE0Vm10Mk1tVk5RbXAzYVhkNGVHbGxWMmR4YlRSWVNIQlRYM1ZIVUdsYWMyMU1UekZ4VmpOMWEySkxOMjA0UzJGZmVrMUZPVGhvV0VSeVgyeHlTa1Z1UWpKNFZ6Tk9VekJoVEVkbFpHZEdWblV0VTJaUGMzWmpURTB6Y0U5bWQwWjRVbkJqZFd0aGRteEtRa0ZmVFVwbFVtWXhSbUpoVVVkdlJFMFNGM1ZrU0RGaGNtMDJTazVMYm5GMGMxQnZUVkJqZFVGakdpSkJTRTR3UlRkSU9IVnBWVk5ZZW1kMVlUVXdOa05DYTAxTlFqbGxWVGhDUlVoQjo1MzgzYzJmOA": {
+    "title": "Sr. Consultant - S/4 HANA SD Job",
+    "company": "YASH Technologies",
+    "location": "Hyderabad, Telangana, IN",
+    "url": "https://in.linkedin.com/jobs/view/sr-consultant-s-4-hana-sd-job-at-yash-technologies-4488641842",
+    "source": "rapidapi",
+    "score": 0.492,
+    "bucket": "maybe",
+    "notified_at": "2026-11-12T14:48:28.126507+00:00"
+  },
+  "rapidapi:jsearch:c1FMYnRpa2QzVHZZS3BHeUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZVjlEUkVsclMxVTVjWGxFY2xseVIySm5PVVI0UzBKTWNtTlphbWhVU0VGR2NFRmpWVEI1V1d0d00wZGZWVzR0VmxCRWNFWkVkVEpRTVdZNFIzcFpaMVJKUTFGUVNWTnNaRjltUTJGdVdUTnpkMUJhVUhabFdXUTNWWEpwT1cxdVUzTmpSVlJRVFV3MU5EUlViMnhJUmtWbVozUTJVVTFPWjFSMlNFNUJOR0ZYZEhsVmRYQVNGM1ZrU0RGaGNtMDJTazVMYm5GMGMxQnZUVkJqZFVGakdpSkJTRTR3UlRkRmNqY3diRGxDWTNaa1VsVnRNVEJNYWs5MmFVOXVURTFoWVZwbjpiZjc5MDQ1MQ": {
+    "title": "Package Consultant-SAP HANA FIN FICA",
+    "company": "IBM",
+    "location": "IN",
+    "url": "https://in.linkedin.com/jobs/view/package-consultant-sap-hana-fin-fica-at-ibm-4487423284",
+    "source": "rapidapi",
+    "score": 0.492,
+    "bucket": "maybe",
+    "notified_at": "2026-11-12T14:48:28.126507+00:00"
+  },
+  "rapidapi:jsearch:M1VmVThMVjRpdkp2LTRJV0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXVmhOZVRJMlEzRlVOelU1Wm1RMVNDMDJXRzVtWVdkME5XTXRWVWxxY0dOU2NXaGhlVkpYUkhCWU5Ga3lORTFVWTJOSE1HbElMVVkxT0cxZk5qZHhMVXRmYVVsVFExbDBUblJHTVVWTFlVRTVSbGMxYUhaNFl6VkxSbkEyTW1jM2VHUnBVSEJ0ZDJKSU5YQm9kRmh0VFdoMFJVNVdibmN0UlVWNFQzbDViVWhhYjE5NlJuTVNGM1ZrU0RGaGNtMDJTazVMYm5GMGMxQnZUVkJqZFVGakdpSkJTRTR3UlRkR2NHMDFkMk13VTBKUWRVSjNRV05QVXpSSFJqSk5iVU0yV1VKbjoxMTlhY2IzZg": {
+    "title": "Package Consultant-SAP HANA FIN CO",
+    "company": "IBM",
+    "location": "Hyderabad, Telangana, IN",
+    "url": "https://in.linkedin.com/jobs/view/package-consultant-sap-hana-fin-co-at-ibm-4487474410",
+    "source": "rapidapi",
+    "score": 0.492,
+    "bucket": "maybe",
+    "notified_at": "2026-11-12T14:48:28.126507+00:00"
+  },
+  "rapidapi:jsearch:a3lKaXRkTkc5bEctQ2xzNEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXVUpyWVc1dVNrUjZUbTR3Y21Sd2JuWnViREZKWnpOdmN6WXRNWFUzZWxaNFp6QnpSa1pIU2xONGMwa3RiMFF6ZUhabmFtTjBNalZMZERKalRHeDZUSEZ2YUhCRVJXcFNWM013TUdaUmRIaFpNVGxmUlZoMVpIbEdha1pKUm5BM2IzTjFaR3BWWldsd2IycDBSMFZ5WTJoUlZuTkdUMUZLVW5GMlVFaHZkWE16ZWpOc05XTVNGM1ZrU0RGaGNtMDJTazVMYm5GMGMxQnZUVkJqZFVGakdpSkJTRTR3UlRkSU5teDJkRGxsVDE5TmRtSmxZMUpYVVROcFYwNDFPR3htVm1WUjo3ZDg4YzUwNA": {
+    "title": "Package Consultant-SAP HANA SCM MM",
+    "company": "IBM",
+    "location": "Ahmedabad, Gujarat, IN",
+    "url": "https://in.linkedin.com/jobs/view/package-consultant-sap-hana-scm-mm-at-ibm-4487417483",
+    "source": "rapidapi",
+    "score": 0.492,
+    "bucket": "maybe",
+    "notified_at": "2026-11-12T14:48:28.126507+00:00"
+  },
+  "rapidapi:jsearch:NG1Hc1ZFalR0UHR3RENNX0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXbVUzV25kTGEyNXJPRVl5VVc1VmNFeGZRakl5V1hoWVJUbFFVVUY1YmtOdmQzWTJPV1poU2tGMFlrSlRRelkxUzBwaVUyUmljbXhSU201dWVXNWpUVkI0VEdaWlMwTlZjSFZMWjNNeVV6SXdMVVpaZDFVMFdpMURXbEZDUkcxR01rTkhZVGxQUm10dGNGcGtiazVXV0ZkcVpHbE5iWFZsY1VwWlMwOUJORzVpVmtwRFdUa1NGM1ZrU0RGaGNtMDJTazVMYm5GMGMxQnZUVkJqZFVGakdpSkJTRTR3UlRkSGNuTndUVmMyU2tKa1dVVk5ZbWRTZFdadVFUQndkR1Z6Wkd0bjo1NGM0NjVhMQ": {
+    "title": "Package Consultant-SAP BW HANA Analytics",
+    "company": "IBM",
+    "location": "Hyderabad, Telangana, IN",
+    "url": "https://in.linkedin.com/jobs/view/package-consultant-sap-bw-hana-analytics-at-ibm-4487414785",
+    "source": "rapidapi",
+    "score": 0.658,
+    "bucket": "relevant",
+    "notified_at": "2026-11-12T14:48:28.126507+00:00"
+  },
+  "rapidapi:jsearch:a1dORE13S2xBaGFmYVNDSEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZVk5YZDNWelEwNUJla1E1UlRWcFkybEZPVmRRVFdRNFNqQTRNWEZpZFdnMVVHd3RaWGhUTUd0NlowTkxSMFEzUkdkVVUySnRNRWRFYzFoemJrdE1iWEJaV2xRd1YzSmhRVjltVjBaSFJFSllOakl4YlV4dldqUjBlRXc1UVVwbVNEZDVNbkZpTVZwcVQyZzJSbUpVY1ZGU2NtSlJZMnRYY0VSVmNIbFJNVGd3VTIxa1FrZ1NGM1ZrU0RGaGNtMDJTazVMYm5GMGMxQnZUVkJqZFVGakdpSkJTRTR3UlRkRmFrNXlRV2xHVFVGNVkxUk5Xa3B2YjE4M01FRlFXRXhDTldWMzozYTVhMzRmOA": {
+    "title": "SAP ABAP-Staff",
+    "company": "EY",
+    "location": "Coimbatore, Tamil Nadu, IN",
+    "url": "https://in.linkedin.com/jobs/view/sap-abap-staff-at-ey-4488686728",
+    "source": "rapidapi",
+    "score": 0.825,
+    "bucket": "relevant",
+    "notified_at": "2026-11-12T14:48:28.126507+00:00"
+  },
+  "rapidapi:jsearch:MlZMUmlXT3ZIZkt6UFc3M0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXa2RHTTFKR01rbExNWFUzWTFkNVpWOHhRelIzU0dnMlNuZHhjWHBzV25ZeWRXTTFkbkZZYzNaQ1pITnVXbVZaWkhVMVFqWmpTWE5WVTBWV2FXZ3lOM0JqZURsbFluZFZhRXA1ZVU1VU0yRjJVR3RKUWtScWJDMVVTbXRHYm5oNlRHbHpjRVYzZHpoRGVUTmlXWEpNUlRZd2FXdGxOa2w2UVV0SFEwczVMVXBTY1V0NFJtWVNGM1ZrU0RGaGNtMDJTazVMYm5GMGMxQnZUVkJqZFVGakdpSkJTRTR3UlRkR1oxSnNRbEZPV0hGSVVXSklla0ZZVEZkcmJHNDFhM2hyV0U5bjpkMjQ4ODVkMQ": {
+    "title": "SAP ABAP Developer - SAP Abap ON Hana, RAP Framework, Abap Cloud",
+    "company": "Innovative Information Technologies",
+    "location": "Bengaluru, Karnataka, IN",
+    "url": "https://www.shine.com/jobs/sap-abap-developer-sap-abap-on-hana-rap-framework-abap-cloud/innovative-information-technologies/20047444",
+    "source": "rapidapi",
+    "score": 0.825,
+    "bucket": "relevant",
+    "notified_at": "2026-11-12T14:48:28.126507+00:00"
+  },
+  "rapidapi:jsearch:RlEyLUlBWnhxSXJQNFlnQkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXVnBoVTJaUVEzZGtkV0p5TFU1Rk1GZGhXWGhpWTFSWlZsbERjbEkxZG1KaE9XUk5OWFJ5YkdGNFptUlNkRlkyV0hGQmFFVnROR2t5T0VkVWFWZ3RZV0pQWkVGcmVtNUdaSGR3WVdWT2MyVTJjVWxyUVRWUWQyVk1UekZEY1VNNGJXdFpZaTFZVkhodk1tVldXRTR4UjFoRVVVZFpOMmxXUnkxeVlWSkVVME5rWVV4TldIb1NGMGhPVERGaGRFOTZTbTk1WldoMlkxQnFTVU52ZDBGRkdpSkJTRTR3UlRkSE1IUlFVbkJaVWxBdGFUTjBRMVZxUlc4NWEzbGhRVFJIWjBWbjpkZjFhYTNjNQ": {
+    "title": "Sap Abap, Btp",
+    "company": "ConnexR Solutions",
+    "location": "Chennai, Tamil Nadu, IN",
+    "url": "https://bebee.com/in/jobs/sap-abap-btp-connexr-solutions-chennai--ss-in-1r6lhnj",
+    "source": "rapidapi",
+    "score": 0.825,
+    "bucket": "relevant",
+    "notified_at": "2026-11-12T14:50:55.865559+00:00"
+  },
+  "rapidapi:jsearch:b1lqN3k0UzViYnM2eW92d0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZblJOZGxweE1XWXhNWEZzTTBwblJEVnFlRXh6Ukc5TGRUVkZOMFJwVGpoYWRFMDRRelZ6UkV4MlgwUkpRV1JMTjBReFVrVk9PWGhSU1ZSUmFqUkdOVUpXUlhNdGRtZFphbVZwTVU1c2JuZGZZVkF5UWtSNVVsZFNURVJMZG5GMFRrTXhOMlpVVlVvNGQwdGZUR2hYT0dGdlptOXdRa1YzTWxkNWF6RmpRV2M1U0RScWFGQVNGMGxPVERGaGRETkNSMk5MZGpRdFJWQXhObVZETkVGSkdpSkJTRTR3UlRkSGJXVTJZMUV6VmpjNFEyb3liMnBxV1RoaFMxWm5WSGxKVWtsMzo4MDExMmVjMg": {
+    "title": "SAP Commissions Embedded Analytics Configurator-Senior",
+    "company": "EY",
+    "location": "Bengaluru, Karnataka, IN",
+    "url": "https://in.linkedin.com/jobs/view/sap-commissions-embedded-analytics-configurator-senior-at-ey-4488236518",
+    "source": "rapidapi",
+    "score": 0.658,
+    "bucket": "relevant",
+    "notified_at": "2026-11-12T14:50:55.865559+00:00"
+  },
+  "rapidapi:jsearch:ZjYyLWk4MXhKeXZuMnNCa0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZVVkxZVRaTFVTMU5XR1ZYWXpBemRGQmpMUzFYWldOT1IyZDZRalIyTVVKb1R6bERYMFp2UVU4eGFWYzVVVVZLY204eVdYazBNMjVqUjBwUmJUUlVSVUp1UmtKM05qVnVNbnBUWDJwMGIxVlpaR0Z0VFRGVWFXaG5MWE51TUd0dGNGSmpWWFZLTjA1VGNUWmtRa2hHUm1jemRYRjRWVFZOZGt4bU1qZExOM0pNWXpodExVRVNGMGxPVERGaGRETkNSMk5MZGpRdFJWQXhObVZETkVGSkdpSkJTRTR3UlRkRlFWSk5hWEF0VW0xTVNIUkdMVFI1UlVGU1oxaENVRkZoVlZoUjo4MDExMmVjMg": {
+    "title": "SAP Commissions Embedded Analytics Configurator-Senior",
+    "company": "EY",
+    "location": "Karnataka, IN",
+    "url": "https://in.indeed.com/viewjob?jk=e3789c01042296bc",
+    "source": "rapidapi",
+    "score": 0.658,
+    "bucket": "relevant",
+    "notified_at": "2026-11-12T14:50:55.865559+00:00"
+  },
+  "rapidapi:jsearch:LS1YVjJWWDllY2s0Q21meUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXWEJDWlVSNGJFTkNUekZ6Umw5UVQzTkdVR3BTZFhCVUxTMTFObXBWWW05cFNURTRSVmQzWTNWZlVUaHlMVlIyWVRNNGVIbHJTbU5qTm5JMFJuWmhNRkpMY3pORVRXbzJSa1ZvTUMxMmNVNTNkVEpXY1dSNU5IZFhXV1U1V0RkUlRXWlRiVmMwYlVzNWJtYzFUVzFFU2pndGJGVmhURGxDYUUxSFV6QTJOMWRKZWxaTlZWb1NGMGxPVERGaGRETkNSMk5MZGpRdFJWQXhObVZETkVGSkdpSkJTRTR3UlRkRlpHVTJZaTA0TURsMVEwRTRlbk5WVDFadmVWSk9OVzQ1VldkMzpmZjYzNjIyMQ": {
+    "title": "SAP SAC Developer Reporting & Embedded Analytics.",
+    "company": "CYAN360",
+    "location": "IN",
+    "url": "https://www.foundit.in/job/sap-sac-developer-reporting-embedded-analytics-cyan360-india-69780555",
+    "source": "rapidapi",
+    "score": 0.658,
+    "bucket": "relevant",
+    "notified_at": "2026-11-12T14:50:55.865559+00:00"
+  },
+  "rapidapi:jsearch:d2thRmVKUEhFVzFiZTBiUUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZVkJuZGs5cU56WjJUamx3TVRGSGVIbExWRmMwY1RKcmNWSnBTVzVaWWxwQmQzQkhSbk0xYldGcVgwOHdkbkozYzNrdGFUWmxMVXRpVUhKUlVFdFBTMWMxV21kb1JVTTVkR3hMTVdGNmIwWnViVFpTUmpJeU1tdzNZa2xxU1dsM1ZtdEVTVTg1YlZNd05tRmhSVEZyZUZFNGJIRlhXRGxNUmpJMGRHSnJWbTFVUldSamNuUVNGMHBrVERGaGRHSjJRbTh0Y1doMlkxQnVOVFl5YlVGWkdpSkJTRTR3UlRkSFoxUktRMWRXZUdKbk1FRkNNbXBZWDBKeWMyTkpkRlZGTXpaQjo3YmMwNWM1Nw": {
+    "title": "SAP Analytics Cloud & Datasphere Consultant (Chennai)",
+    "company": "Virtusa",
+    "location": "Chennai, Tamil Nadu, IN",
+    "url": "https://in.jobrapido.com/jobpreview/3649588640545243136",
+    "source": "rapidapi",
+    "score": 0.825,
+    "bucket": "relevant",
+    "notified_at": "2026-11-12T14:50:55.865559+00:00"
+  },
+  "rapidapi:jsearch:V0tIdnNNcWVsN0JsckFSZUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXa3BHTkhGa2FVaDFVMGxvTVRKcGFIbGFhVEoxWkUxMmREZHpkSEpFZG1seVdqVTRNREp0TkdwdFN6QTRTMjFRY2pnNFVrOWtkWFZQTUhGamNVa3RVR2x4Yms5NE4zVldkM28wTkZRd1ZrZ3lNM1JSVEdodWVFZGtVUzAzUldSSFlWOVJiVzFHU1VobVpYUmFVMTlTYmxkTFVXVmxTazR4TFRobmRYVjNTamxGWlVWUGJUa1NGMHBrVERGaGRHSjJRbTh0Y1doMlkxQnVOVFl5YlVGWkdpSkJTRTR3UlRkR1QwUlJiVnBzVWkxR1dVTlJWMlpvUTNFNGFUQXlOVVZ6UmpkbjpmMGYzMGRhYw": {
+    "title": "SAC UX Developer / Datasphere Developer",
+    "company": "Fusion Consulting",
+    "location": "",
+    "url": "https://jobgether.com/offer/6af3392f1b1a9ee7d65f0192-sac-ux-developer-datasphere-developer",
+    "source": "rapidapi",
+    "score": 0.33,
+    "bucket": "not_relevant",
+    "notified_at": "2026-11-12T14:50:55.865559+00:00"
+  },
+  "rapidapi:jsearch:dGM3Z19RWGdoLVVDU0lkbUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXVEJGZDBOWGFrNWplV2hZY0hsSk1rMW5aa0Y0YVdKb1ZVRTNhbUkyYnpWTVkyMURjbmh6Y0hWSVRsTlNjbFJoWVdaSllVOW1Xa1F3V25SYVEyTkpXV1YyVWpjMk1HMU5NbGgzUzJSTWVISmhTM2gwUVVOcU9VbFdkbnBZU1dsQ2VDMU9WRTh4Ym5wRVQzbElSSFozTW1oRlMyUnJiaTFHZG01Q1oxaFBUR3h3YjFST2VUUVNGMHBrVERGaGRHSjJRbTh0Y1doMlkxQnVOVFl5YlVGWkdpSkJTRTR3UlRkSGMxOUJRemhRTTFvNVRrTnlRMUZXWVdOR2J6TnRWR0Z4YjJGQjpmOGY3ZmVjNQ": {
+    "title": "Senior Product Specialist",
+    "company": "HCLTech",
+    "location": "Indergarh, Uttar Pradesh, IN",
+    "url": "https://www.simplyhired.co.in/job/L31nPKoDMrD0in0bpwly5oFeZOhqTRxoaNmTxTW9BmqsmAEm_wyByw",
+    "source": "rapidapi",
+    "score": 0.508,
+    "bucket": "maybe",
+    "notified_at": "2026-11-12T14:50:55.865559+00:00"
+  },
+  "rapidapi:jsearch:bVdRaDRGODMtakxFdVlpLUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXV1J5YW1sb1kzcHFWbXBPUWtWQmJWZ3pWblZ5Y1RGRVMxOUpNVWRFY2pKbk1uSXliMU5JUTJsQmRGOUtObEZzYjFSbVowcGZORmRIV0MxeFpUTjBhV0l0Y2sxMVkwMWtUMGhmTWtSTVNscFlUMHBvVFRGVVVGZ3pVa0pEV2tKRVJUVmlNbmx4Y1d0Uk9VaFRWa1J4VjBaYVZIcHdVa1ppWWxWV1EyTkxWVXBVUjFRMlZrb1NGMHhPVERGaGRXWnJTelp4YlcxMGExQjBja2RaTFZGRkdpSkJTRTR3UlRkR1RFOHdUV1ZtYzNZd1ZVWldPVk5VTjA1UlgxZHhjMk0yWHpKQjo2YjIyMDA4NQ": {
+    "title": "SAP ABAP RAP Developer (SA - Senior Associate / M - Manager)",
+    "company": "WalkingTree Technologies",
+    "location": "Mumbai, Maharashtra, IN",
+    "url": "https://www.simplyhired.co.in/job/HZaXCSYm2RdRYlaFKlebPsXJH4M-GaVj3-P24O2ZYknvp0nukG7X4A",
+    "source": "rapidapi",
+    "score": 0.825,
+    "bucket": "relevant",
+    "notified_at": "2026-11-12T14:50:55.865559+00:00"
+  },
+  "rapidapi:jsearch:MlZMUmlXT3ZIZkt6UFc3M0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZUzFpU0VwVmIzZFJZVGQwVEZKcFUzTndkM0F5UnpKNFdGYzRTRzFWVUdweE1XZFpaMFEwUkVKMWJXVnZhVmhaVUUxeFprOWhRMEU1UWpSdlJWOUVZVkZaT1MxSVlUTkxlRkp0UTJjMmFURTVaM0ZIU0dSVWRHdHNTSEZuYkhoR2FHSXRTVWQ0WlRkaWFFaHBXbGxPZFVaV1dWQkRXV1ZXV1RCcE5TMW5ha1JzVWxwNE1Fc1NGMHhPVERGaGRXWnJTelp4YlcxMGExQjBja2RaTFZGRkdpSkJTRTR3UlRkSWREaFRPVTU1Um1adGFrTlBUR0ZsV1ZSTFprVkVZWGRRWmpkMzpkMjQ4ODVkMQ": {
+    "title": "SAP ABAP Developer - SAP Abap ON Hana, RAP Framework, Abap Cloud",
+    "company": "Innovative Information Technologies",
+    "location": "Bengaluru, Karnataka, IN",
+    "url": "https://www.shine.com/jobs/sap-abap-developer-sap-abap-on-hana-rap-framework-abap-cloud/innovative-information-technologies/20047444",
+    "source": "rapidapi",
+    "score": 0.825,
+    "bucket": "relevant",
+    "notified_at": "2026-11-12T14:50:55.865559+00:00"
+  },
+  "rapidapi:jsearch:RlEyLUlBWnhxSXJQNFlnQkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXVmhHVVdwTVRrUmlTRVF3UmtsSFRHdFlhWEoxWjBkM1ltOXJYMEpGUmtWa05WaDBlSG8wTURKTlFUVmllV2x1U2pGak4zbHRVV1ZsWldOQ1dtSXpTVzAyTkZac1JsSkpVV0ZEUXpFd1dscHlVWGxLVTBaRE9YWXlWbWRSVDFrMFJuTmxiMlEwZDB3NGVteGxaazFwY1ZkWk0yWm1UREJ4VVZsWWJGRnhka3hITkZWbVNXOFNGMHhPVERGaGRXWnJTelp4YlcxMGExQjBja2RaTFZGRkdpSkJTRTR3UlRkSGJXMXdiMlkxVkVsRU9YbDFTMEZKZVRrd1NERmpkMWRQZDJOUjpkZjFhYTNjNQ": {
+    "title": "Sap Abap, Btp",
+    "company": "ConnexR Solutions",
+    "location": "Chennai, Tamil Nadu, IN",
+    "url": "https://bebee.com/in/jobs/sap-abap-btp-connexr-solutions-chennai--ss-in-1r6lhnj",
+    "source": "rapidapi",
+    "score": 0.825,
+    "bucket": "relevant",
+    "notified_at": "2026-11-12T14:50:55.865559+00:00"
+  },
+  "rapidapi:jsearch:cHJmMEV3c0dTSDMzMS1raEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXVGMxVm5Ca1kxTTFWR0pEV1ZVeVpUa3daMlE0TjBKUVNYWXdRMWM1UjBaVVJVdGxaM1JYZERNeVZsYzVaaTExUmtadU4xOTFZVTkzVEVsbVdWVXdSelpXYTA5VGFUTXhTbFpZVEc5NFVWVnhTakJLYXpad1MyUkxNM1ZpTlUxb05FVjFTVFZ5TjA0eWF5MDNjME5IV0VJNFNYVlNWVTFJZERSVU4xVnZVRWRQYjJ4amVtZ1NGMHhPVERGaGRXWnJTelp4YlcxMGExQjBja2RaTFZGRkdpSkJTRTR3UlRkR2FUbHNUR1pPY25KRU9XODFWalZHVUU4MmRHaFVja1Z0WjJSUjpiMDI3YzI5Ng": {
+    "title": "Opening For SAP ABAP with RAP (Delhi)",
+    "company": "Tekskills",
+    "location": "New Delhi, Delhi, IN",
+    "url": "https://in.jobrapido.com/jobpreview/1177712778467606528",
+    "source": "rapidapi",
+    "score": 0.825,
+    "bucket": "relevant",
+    "notified_at": "2026-11-12T14:50:55.865559+00:00"
+  },
+  "rapidapi:jsearch:ZS1IMklJazM5cHN4bWh6c0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXVVZzVGw5bE5EaHhTWGhNVG5WclFtczJjVzlwVW5GSE9FOU9WVE5XWjJKMGJFcFdMWFZ0WTJKTGRWaFFSVU5uT0Rabk1HTTFjSGRTYWpoNGFGTlphM2M1UzBZNWRqUktVVGcxWmtWemNGRlZNRUpIV1MwMFgxVk1ORmg2YlVSek9GUnBNVzU0UlZwaWN6ZzBOSFpXT0VaeVVYUTNTRkF0UmxkSFNpMUVTVXcwVkZGc1pWa1NGMDVrVERGaGRtbE9UWE5FWjNkT05GQjJjbVoxTWtGTkdpSkJTRTR3UlRkRlNVZ3ROWEp6UjE5NlJYSkRVMkl0UnpjM2FFeG5SRzFWWTNkbjo5N2JkYzQ4Mg": {
+    "title": "SAP FIORI Lead Consultant - Enterprise Apps",
+    "company": "Birlasoft Limited",
+    "location": "Pune, Maharashtra, IN",
+    "url": "https://jobs.birlasoft.com/job/Pune-SAP-FIORI-Lead-Consultant-Enterprise-Apps-INDI/57133844/",
+    "source": "rapidapi",
+    "score": 0.953,
+    "bucket": "relevant",
+    "notified_at": "2026-11-12T14:50:55.865559+00:00"
+  },
+  "rapidapi:jsearch:TkZLZmRXSWpjdklzZmhITUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZVmxEWmw5WVVYcGlSamxMWkMwemVrdERWMTk0TUMxTlRXUmZibVJNTkhGcmVFeFFWWE53YVV0aVlsaHJZMEpRYTJsTWJuWmhRbXRIY2twSWFsZEhhMFF6VTJWM09HZFJVV0kzZWtKVVoyZElSMkpTTVVjMVltUk1TamRyU1d4UVdVNUJTRmw0WW5aUlIzWjRaMFJHVWs1TmFVTkhURGR3UVhoU2JqRmtXa2N3VlRkQmQwMFNGMDlrVERGaGRHWm1RMHg2VVd0UVNWQnpjR1ZxTWxFMEdpSkJTRTR3UlRkSVdubFJiRXROWXpZMFZVSmtkVFIwUzNjdGJVVmFZbDlxWW1KbjpiOTY5N2U4Zg": {
+    "title": "584218_SAP Analytics Cloud & Datasphere Consultant",
+    "company": "Trigent Software",
+    "location": "IN",
+    "url": "https://bebee.com/in/jobs/584218-sap-analytics-cloud-datasphere-consultant-trigent-software--ss-in-17eo6uo",
+    "source": "rapidapi",
+    "score": 0.33,
+    "bucket": "not_relevant",
+    "notified_at": "2026-11-12T14:50:55.865559+00:00"
+  },
+  "rapidapi:jsearch:LS1YVjJWWDllY2s0Q21meUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXV2xDUkZwd05TMTZTams0UkVnelZWSXlXV2x6UnprNFQxTjJlV0o2TWxGNWJHcG5aazlNVVhaT1JFaHFOalo2Y0dGdmJYZENkRlp4TUZJd1IzVkNTMnRhT1VOeWExWjJOek5yY2psalZsbENXa2hvTTE5NE9HSkZUMmszTUZaa1FsUnVPVEJEWkhOUk5GY3paVFJvZERkUlZXRXdjR00yVHpVemRIVkhPRGhrUVU5Q2RYQVNGMDlrVERGaGRHWm1RMHg2VVd0UVNWQnpjR1ZxTWxFMEdpSkJTRTR3UlRkSUxYaFZTRE50UldKalJHbG1UVXQ0WjJRdGVrUk5SVVoxTTJWMzpmZjYzNjIyMQ": {
+    "title": "SAP SAC Developer Reporting & Embedded Analytics.",
+    "company": "CYAN360",
+    "location": "IN",
+    "url": "https://www.foundit.in/job/sap-sac-developer-reporting-embedded-analytics-cyan360-india-69780555",
+    "source": "rapidapi",
+    "score": 0.658,
+    "bucket": "relevant",
+    "notified_at": "2026-11-12T14:50:55.865559+00:00"
+  },
+  "rapidapi:jsearch:bkxtYWNyRElSbnBqNkZQNUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXazFXVURCTmQweEVOSE5uWjJOMGIxSm9OV1ZPUm1SdVJucHBZWFZqUlUwd1JGaExNSE5vY1hWamFGSklTRWRSTm5BdFgxaENVa1JOTW14cVNuVTVPR0pqYWsxU2RqTlhiVmt6ZEZCTGFtbDBhVlJDUTNSSVlqaEVibmxWZEdvNWEzbHdNVzFuWTFJMWVIcG1kbmc1ZDA1eE5YSTNhMlJhZEhCdlluWnJUSFZZYVVWb1VHRVNGMDlrVERGaGRHWm1RMHg2VVd0UVNWQnpjR1ZxTWxFMEdpSkJTRTR3UlRkRmFsSlpaVGhhYzFkb1FVUXRTR3RPV25vM2JEVnFibEoxVVZCUjpiOTBjNmU4NA": {
+    "title": "SAP Analytics Cloud Planning - Senior Associate",
+    "company": "PwC Acceleration Center India",
+    "location": "Bengaluru, Karnataka, IN",
+    "url": "https://in.linkedin.com/jobs/view/sap-analytics-cloud-planning-senior-associate-at-pwc-acceleration-center-india-4478261804",
+    "source": "rapidapi",
+    "score": 0.658,
+    "bucket": "relevant",
+    "notified_at": "2026-11-12T14:50:55.865559+00:00"
+  },
+  "rapidapi:jsearch:d2thRmVKUEhFVzFiZTBiUUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZVkZaZVhOMWRXOWtaM1J4ZVdwc2JtTTVPVkJIWkdGb1QyeFlaRGhtVjA1eFdHMW1UV1JwVVY5TVNFSlpaVE5GV1hkSmMwSkpaRUZ0WjNkWk5EWkhUa1JwUVhneFRqZHFVV3Q1VVdGUVJXSmZXbXR3VDB0QlVVaFVhbU5YV25KWGFHUnJZaTB5YzNoMWFUaHRTa1pGWVVWcVRYZGxObEV0YkZrMmQyVTRYMEZmWDIwNU5rRVNGMDlrVERGaGRHWm1RMHg2VVd0UVNWQnpjR1ZxTWxFMEdpSkJTRTR3UlRkR1EwVnRiVWg1VWtWRFVqaFBTM05uT1UxQk16WjNkRmd6U0hWUjo3YmMwNWM1Nw": {
+    "title": "SAP Analytics Cloud & Datasphere Consultant (Chennai)",
+    "company": "Virtusa",
+    "location": "Chennai, Tamil Nadu, IN",
+    "url": "https://in.jobrapido.com/jobpreview/3649588640545243136",
+    "source": "rapidapi",
+    "score": 0.825,
+    "bucket": "relevant",
+    "notified_at": "2026-11-12T14:50:55.865559+00:00"
+  },
+  "rapidapi:jsearch:YkxwNXBoOGJROFdsV0xvREFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXWGhzYnpKa00xZ3lMWFJwTTFsd09WTlNiRjlTTW5wb1RWUlpjVTVEUm04M1FsVkdSRlZKZWxaUlgwVlpWVVJEZVROWVFqaFZUMnR5Y1dObU9ISTRSbk51WldGeE9WSjRZbGM1VjNOUmNrVlhhbHBKUVVneUxWZzJUa3BoVlRWUVYzcFpSSGxpTmxOb1RFeGFkVWxCZDBsaVptMVNTVlZzVjFCUlN6ZzRWbkpoY1dGaldUVVNGMDlrVERGaGRHWm1RMHg2VVd0UVNWQnpjR1ZxTWxFMEdpSkJTRTR3UlRkSE1rbHVORnBaZGswMWFqSTRZMWxOT1hWVU0yZElWVjlMTTNGbjo5MDliZmU5NQ": {
+    "title": "SAP SAC Planning Lead (Pune)",
+    "company": "Recognized",
+    "location": "Pune, Maharashtra, IN",
+    "url": "https://in.jobrapido.com/jobpreview/1455626162137989120",
+    "source": "rapidapi",
+    "score": 0.619,
+    "bucket": "relevant",
+    "notified_at": "2026-11-12T14:50:55.865559+00:00"
+  },
+  "rapidapi:jsearch:MkpuT2ZSbFJkMkxiWWN6MkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXbWxuTUdSQmJGVlVWa0ZLVm0xRWNVMW5NVUZpT0dsZmEzWnhXV2xVUW01bFVrMDJURmhRU0VORVlrUk9NbEp1TVdrMlNHZE5Xa1pFWTBaM1owdFBYMHhPY21KUlNtVlRSakJ3VFVaU1VXSnhlbmx0ZEU5aFVGb3pUVzFtWXpCb2ExOXBXVmxvTUd0b01UQXhZV3BoWVdJNVNXOW5TRXRLY3pSVVpGcE1abXRJTUdJelowY1NGMDlrVERGaGRHWm1RMHg2VVd0UVNWQnpjR1ZxTWxFMEdpSkJTRTR3UlRkRlJHRkZWVFJHZW0xblFsTnpNbWc1TFVjeFFVNWtPWEZsYUY5MzpjZGQ3MTU1Ng": {
+    "title": "Architect - SAP BTP, Group Reporting, SAC, PaPM",
+    "company": "Digital Bright Technologies",
+    "location": "",
+    "url": "https://bebee.com/in/jobs/architect-sap-btp-group-reporting-sac-papm-digital-bright-technologies-remote-india--ss-in-1k0ritw",
+    "source": "rapidapi",
+    "score": 0.492,
+    "bucket": "maybe",
+    "notified_at": "2026-11-12T14:50:55.865559+00:00"
+  },
+  "rapidapi:jsearch:eDlDS19SeEJUM3NsUDR3ZEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZVE0xTmw5T1ZFMDBTa1F4TUZjeVl5MWFSa1JWVjNJeFUwVllWMWxETWpSM1N6WnZTelk1U0RSbFNHNXpkV1J6TTBKQ00xSlhlVzE2WlVSVU5EVlJNVE5OTWtWeWJrUnZiRVpsUVc5SFZYSnliVGQ0VW1zNWFrazJTbXcyVkVwMVQzTnpRMjVSY2tkT1JWUkhlVFJTYTA4NE0ybDVTM0k1YTNaNVExSm9Nbm8yZFRaS2JIQVNGMDlrVERGaGRHWm1RMHg2VVd0UVNWQnpjR1ZxTWxFMEdpSkJTRTR3UlRkSFNrWlVhbEV5UkMxNmVEZHZOWGxtZVc1WVMzVmZXSFY2ZVRCUjo2NTY2ODM5Yg": {
+    "title": "Package Consultant-SAP BW HANA Analytics (Hyderabad)",
+    "company": "IBM",
+    "location": "Hyderabad, Telangana, IN",
+    "url": "https://in.jobrapido.com/jobpreview/4915311242068885504",
+    "source": "rapidapi",
+    "score": 0.658,
+    "bucket": "relevant",
+    "notified_at": "2026-11-12T14:50:55.865559+00:00"
+  },
+  "rapidapi:jsearch:M3FKUTJYSzFadFVtbnNoeUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXa0ZEVkc5S05GSnJVM0p1V1dFNVpYUXdXbkkzUVZvdFh6SkNWR05GVVZSalJWUmFURGgwWm5kaExURkhkSEE0VUhSTlkwaGxVMGx4YVVwbFIxaFdTekZ6YzA5b1pWWnRUa2syTVZCelMwbzJVV1JLY0RoMU9WWkhXR0p2TVRCU2VuSjBRV0pzWDJKb2FUbEhlamRKVlRJdFUyRndVVXhNWTA1S1VXazJlVlJPY214elZGa1NGMDlrVERGaGRHWm1RMHg2VVd0UVNWQnpjR1ZxTWxFMEdpSkJTRTR3UlRkSE9EaHhhR2hwTjJkQ2IySllSWFJOTVdwNFNESnVVazQwYmpabjowYmQzYTRmNw": {
+    "title": "SAC Planning",
+    "company": "Cognizant Technology Solutions Corporation",
+    "location": "Pune, Maharashtra, IN",
+    "url": "https://www.jobleads.com/in/job/sac-planning--pune-district--ed349b71d9d9a7f4eefa30643c5188cea",
+    "source": "rapidapi",
+    "score": 0.152,
+    "bucket": "not_relevant",
+    "notified_at": "2026-11-12T14:50:55.865559+00:00"
+  },
+  "rapidapi:jsearch:V0tIdnNNcWVsN0JsckFSZUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZVE5JYUVKaFNVRkJSSFJIYnpFMk1YVlRkbEpUUlhsU1QxcDFTMVpvUWpFek1rcG1YMFpyUVc5NU1FWlZVVkJ3VUhsVlUwc3hibU5VUVhkT2FFZDZVWFUwWjJJNFZHMVlPWEJYYzFCVWFEWTVhREJMTFhCTFJTMVdhVzQ1YnpjNGRWZDNSREUyZDFrNVV6ZGhTall5U1RKb1JpMXRiV1pyTWxVMk9HTmlXRGxNYWtKTWVtY1NGMDlrVERGaGRHWm1RMHg2VVd0UVNWQnpjR1ZxTWxFMEdpSkJTRTR3UlRkR1NFMXlOMUJOTUV4R1pHRjZTV3BwTWpkdWRtUlRTR1p5V0d0bjpmMGYzMGRhYw": {
+    "title": "SAC UX Developer / Datasphere Developer",
+    "company": "Fusion Consulting",
+    "location": "",
+    "url": "https://jobgether.com/offer/6af3392f1b1a9ee7d65f0192-sac-ux-developer-datasphere-developer",
+    "source": "rapidapi",
+    "score": 0.33,
+    "bucket": "not_relevant",
+    "notified_at": "2026-11-12T14:50:55.865559+00:00"
+  },
+  "rapidapi:jsearch:OEMzc05JNy1xUjVKeEs5TUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZVmRUTTJsdGMySlBOamRUT1Zsd1dqWndaM1ExYkZkU00wWkpZM0ZhUlVSMU1XbFNNM0oyYW5aa1RHUTVVMDFCWHpGcUxXeGFNV1Z2WXpWeVRVRmhYMlZ5UVZsV05UbHRiV0pQTTFGV2NqWkNRbWhCUjJneGNWZDRWek5vWDNCQmNVcENUa2d6Y0dwSGNpMDRaVXBYVnpSMlRubEtVa1Z1U2pKdFJWQk9NbGhVYmpkUWVVOFNGMDlrVERGaGRHWm1RMHg2VVd0UVNWQnpjR1ZxTWxFMEdpSkJTRTR3UlRkSWExOUtTVTFSVTJwUWJ6SjVlVVYyTlROcGVIRm1jRGx2ZVVSbjowNzcwNzUwNA": {
+    "title": "SAP BDC-DSP-Manager",
+    "company": "Analytics Legends",
+    "location": "Ernakulam, Keralam, IN",
+    "url": "https://www.jobleads.com/in/job/sap-bdc-dsp-manager--ernakulam--e543322c392aed0056df971a3a9d18603",
+    "source": "rapidapi",
+    "score": 0.658,
+    "bucket": "relevant",
+    "notified_at": "2026-11-12T14:50:55.865559+00:00"
+  },
+  "rapidapi:jsearch:RlEyLUlBWnhxSXJQNFlnQkFBQUFBQT09OkVzc0JDb3dCUVVSRVlsZGxXbE5UWXpodVdFUXlhRzQ0VmxGdWRVRlBhVzVTZHpaelQyeElaREpqV0ZGUmNHSjJNbDlzYVdaS1NXbzVTemhTVTBVdFZHZHhPRlpqZUhSU2VTMWpRMmc1UkZWWE5VVkpVM1UwT0ZkVVpXcFhjRXRrTW5aaWVtNVNhVzAxV2t0TE5Fa3hYMGRaTUdSTmVHZFFWUzFrU2xoQlFWWkxkR3hyTm1Kb2N6UkRNRUp0UkZCNVJrTVNGblJPVURGaGNsUnBSMDFwY3pRdFJWQXRkbnBwWTBFYUlrRklUakJGTjBkWldqVjRaM1J0Y1cxUWVuTmZWeTFrTUZSeGRrMUtiMWh5ZG1jOmRmMWFhM2M1": {
+    "title": "Sap Abap, Btp",
+    "company": "ConnexR Solutions",
+    "location": "Chennai, Tamil Nadu, IN",
+    "url": "https://bebee.com/in/jobs/sap-abap-btp-connexr-solutions-chennai--ss-in-1r6lhnj",
+    "source": "rapidapi",
+    "score": 0.825,
+    "bucket": "relevant",
+    "notified_at": "2026-11-12T14:57:36.840041+00:00"
+  },
+  "rapidapi:jsearch:ZjYyLWk4MXhKeXZuMnNCa0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXbGxxVTBKd1lXTlVRbTQ1TWxSQk1sZG5SRGxwVFRWd1owNDRXWEpNVmw5blJGRTJNR3B3UTJsbGFEUTVTbVpMVG5OMWFXYzNRMGMxTTAxaVpWVjNRWGxrTW5GeFNURXhZemxmV25oSVdWTTNhREl6ZDJOQ2RHVktTbWRPUVZGZmMycEZjRFpIVUdNMmRYTlpVVUpyVkU5UVZrRnBNRUYyUjNSQmRqTTRiREJ3Y2sxV2FGVVNGM1YwVURGaGJ6WnFRemxFVGkxa09GQXlUV3BtTUVGbkdpSkJTRTR3UlRkR1NrWjVSbTlsZFdjeU9HZE9SWGxSTFdwNVlVdEdaemh6VTFkUjo4MDExMmVjMg": {
+    "title": "SAP Commissions Embedded Analytics Configurator-Senior",
+    "company": "EY",
+    "location": "Karnataka, IN",
+    "url": "https://in.indeed.com/viewjob?jk=e3789c01042296bc",
+    "source": "rapidapi",
+    "score": 0.658,
+    "bucket": "relevant",
+    "notified_at": "2026-11-12T14:57:36.840041+00:00"
+  },
+  "rapidapi:jsearch:b1lqN3k0UzViYnM2eW92d0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZbVpzUzBZd2VWVnBMVmh1UW13M1NuTTRhMk55WldkSVpqbDBXV1p0V0VGWlIydHZhREowYWt0eGNtcEJNRWxJYVhBMFh6TnJSbk5IVEZjd05uTm5jMkZTY2xCbWJIaHlTVkJyU2pKMWJrVkhXWGxGU3kxbmJXOXNaelk0UVdONlYzVkVaSGRyVTFreFYzUlVUWEZ6Wmt0MVRVRjFWMmx6VkhwQlQzRm9SbGRvUWxSTlpWUVNGM1YwVURGaGJ6WnFRemxFVGkxa09GQXlUV3BtTUVGbkdpSkJTRTR3UlRkSVRFTmFNVEpMVVdsQkxUQldaM2d3WXpaVGJEVjRZM0ZUVTBSbjo4MDExMmVjMg": {
+    "title": "SAP Commissions Embedded Analytics Configurator-Senior",
+    "company": "EY",
+    "location": "Bengaluru, Karnataka, IN",
+    "url": "https://www.simplyhired.co.in/job/EUXaHRmedJesuEml0vhgIuV1oxjwpxZcBvHwUqMrIAInJSL8JKOWPg",
+    "source": "rapidapi",
+    "score": 0.658,
+    "bucket": "relevant",
+    "notified_at": "2026-11-12T14:57:36.840041+00:00"
+  },
+  "rapidapi:jsearch:LS1YVjJWWDllY2s0Q21meUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZV3d0VHpseU1DMWlTbUYxTVVneWJtbDNkV1V3VWpRNFRVRldOa0ZUZUVNMmFXdFhUVzV3YTNKRk5XSjBUako2ZUhadWIwRlVOa010YkUxYWMxbEdOMFI1U2xKRlRtWmhTMk40WlVSTlNVdE9iVUpsTW5kWFNGSkdZaTFzUTNjNGRFbGFlRkJ5VUZSSlNqVk1jVFV6VjNRNE9HRkRiREJDWDNoeWQwaFFabTU1UzNaeldsSVNGM1YwVURGaGJ6WnFRemxFVGkxa09GQXlUV3BtTUVGbkdpSkJTRTR3UlRkRmFGQndXRWhqUVZseVFqbHlNRTR3T1VKWE9GSjRWVVU1VFdkUjpmZjYzNjIyMQ": {
+    "title": "SAP SAC Developer Reporting & Embedded Analytics.",
+    "company": "CYAN360",
+    "location": "IN",
+    "url": "https://www.foundit.in/job/sap-sac-developer-reporting-embedded-analytics-cyan360-india-69780555",
+    "source": "rapidapi",
+    "score": 0.658,
+    "bucket": "relevant",
+    "notified_at": "2026-11-12T14:57:36.840041+00:00"
+  },
+  "rapidapi:jsearch:TkZLZmRXSWpjdklzZmhITUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXbTFuYVc1ZlN5MVVZbUpCWWpOVlNVaGFRbTFmZW1SeWNXb3ROa0phVjBSaU5tVlBhbk42ZWtrM09HdHVURVpVVXpselFqTmxlbTkyYW0xcGVrTldRVXcyY21ObVYySjNNalJFVVZwT1dFWlRPRXRMTVhSZlgyWnljRmxxWkV4Wk9GZEpVRjl3Tkc5SGNua3ROSFJTUjNBMFJIVnVjWEozZUVaV1gzRXhaVnBJWlVaZlkyd1NGM1owVURGaGRGQkxRa3RtU25kT05GQjZXVFkwYVVGekdpSkJTRTR3UlRkR2VFeG9UbWRoTWt4Q1RXNVVialZWYTBwUGNYTmpSaTAwWkhSMzpiOTY5N2U4Zg": {
+    "title": "584218_SAP Analytics Cloud & Datasphere Consultant",
+    "company": "Trigent Software",
+    "location": "IN",
+    "url": "https://bebee.com/in/jobs/584218-sap-analytics-cloud-datasphere-consultant-trigent-software--ss-in-17eo6uo",
+    "source": "rapidapi",
+    "score": 0.33,
+    "bucket": "not_relevant",
+    "notified_at": "2026-11-12T14:57:36.840041+00:00"
+  },
+  "rapidapi:jsearch:d2thRmVKUEhFVzFiZTBiUUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXV2x2Ulc0NFpFVkxhRmxoUVdaeU0yNXhSVjlOTFhNM1RYWkVXR1k1WHpka01rOHlha3BKYXpOTlluUklOR1ZCTUV0WWMwWXllWFUyYXpWb1JFVlpRM0ZTTmkxQlZUazJhVUpDZFMxRWRWTkphRkZYTWw5TVRFTm5OamRtZDNaa2RGOUJhbVZwU0RGb09WcHNOVUZGWDIxSk9UTTBjMFZNV1hkblpYUnpNVTlNZG5GS1VXa1NGM1owVURGaGRGQkxRa3RtU25kT05GQjZXVFkwYVVGekdpSkJTRTR3UlRkR1UzRlllWFU1VjBKRmVETnRZVkJyVW5aZlQzVXliREpuV1U5Qjo3YmMwNWM1Nw": {
+    "title": "SAP Analytics Cloud & Datasphere Consultant (Chennai)",
+    "company": "Virtusa",
+    "location": "Chennai, Tamil Nadu, IN",
+    "url": "https://in.jobrapido.com/jobpreview/3649588640545243136",
+    "source": "rapidapi",
+    "score": 0.825,
+    "bucket": "relevant",
+    "notified_at": "2026-11-12T14:57:36.840041+00:00"
+  },
+  "rapidapi:jsearch:V0tIdnNNcWVsN0JsckFSZUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZWFV3VWs0M2EwbDJSamsyTms5QlFqQTNlVE5LVTI1b1drdEJNMWR1Y0dkRU5sVkZZa1UzUkZkNVMzcFJTME5JUjFsWllqaG9jVzUwVjJVelpsTlhWSFkwVUZvNVNVOXhhREp0VGxaNGExaGFibTFYWjNWVlQxbFVOMlpqYVhsYVNUQmFaMTlsYVV4M1NVMUpZV1ZRTWxoVFIwSk5WbFZUVG1kWmNtOTNka3hHZFhaWFNXUVNGM1owVURGaGRGQkxRa3RtU25kT05GQjZXVFkwYVVGekdpSkJTRTR3UlRkSWRtUXdSVXh5VEZKSmVrTmtObGRLVFVWUlNVRmhRblJGVTI5QjpmMGYzMGRhYw": {
+    "title": "SAC UX Developer / Datasphere Developer",
+    "company": "Fusion Consulting",
+    "location": "",
+    "url": "https://jobgether.com/offer/6af3392f1b1a9ee7d65f0192-sac-ux-developer-datasphere-developer",
+    "source": "rapidapi",
+    "score": 0.33,
+    "bucket": "not_relevant",
+    "notified_at": "2026-11-12T14:57:36.840041+00:00"
+  },
+  "rapidapi:jsearch:dGM3Z19RWGdoLVVDU0lkbUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXUzA1TTFkQ1drdEthek5sTFdsVU1GVTBkV3hSYzBGNmRIaE9PRGRJTnpWemN5MU9OVmRMTlhoamJXVXRkR3RTUTB4NE9GQmZVbDlNY2tGWGMwdElOUzB3TW01SGMwZ3hjMnh3YzJkeFUwNTVZVmRVUmtwRlR6RlZkM2RQWDNjeWJ6WXphMUZxTkhoR2JscFlaRkIyUW5ka01sZzBiUzFDUTBaS2QzbHlVWFpyVEZwUVp6VVNGM1owVURGaGRGQkxRa3RtU25kT05GQjZXVFkwYVVGekdpSkJTRTR3UlRkSVRIVTVSV00xTVVZMWVFdzVWV05KVmxSUGVHcDVabUY1YjJWQjpmOGY3ZmVjNQ": {
+    "title": "Senior Product Specialist",
+    "company": "HCLTech",
+    "location": "Indergarh, Uttar Pradesh, IN",
+    "url": "https://www.simplyhired.co.in/job/L31nPKoDMrD0in0bpwly5oFeZOhqTRxoaNmTxTW9BmqsmAEm_wyByw",
+    "source": "rapidapi",
+    "score": 0.508,
+    "bucket": "maybe",
+    "notified_at": "2026-11-12T14:57:36.840041+00:00"
+  },
+  "rapidapi:jsearch:alZuVl9kbEtSUFh4dlo1N0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZa2d4VXpOV1ZqQkJVRGhGTVhONGJVVk9XRlJXZDA1Q1dESkdOMjB0UkhwamNWOHdSMWQ2VEZKVVdYSlRRMVZPUkdWWllURlNiRTE2UzBKWlRYaFpRVTF0VjNab1ZuVlJjRlJyUzBzeWRsbEVaRkZSVlZaeU1rc3dTVkJZZVdWelluUnlaM3AwYTBaVFJrdFJTRk5KUVRsRWFUSldhV3d4ZEVSMlVUTmlOVFZtY1ZsNFEzSVNGM2RrVURGaGRVOUxSbDl0YWpWT2IxQndaa1I1TkZFd0dpSkJTRTR3UlRkSE5tMVpWMnd4VFd0dGVWRkNRM010VjFKM00ySnBjMGxZUzFsMzpiYmU4ZjZkMA": {
+    "title": "SAP ABAP Developer - Abap ON Hana, Amdp, CDS Views",
+    "company": "Innovative Information Technologies, Inc.",
+    "location": "Kolkata, West Bengal, IN",
+    "url": "https://bebee.com/in/jobs/sap-abap-developer-abap-on-hana-amdp-cds-views-innovative-information-technologies-inc-kolkata--fj-2463502245",
+    "source": "rapidapi",
+    "score": 0.825,
+    "bucket": "relevant",
+    "notified_at": "2026-11-12T14:57:36.840041+00:00"
+  },
+  "rapidapi:jsearch:MlZMUmlXT3ZIZkt6UFc3M0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXa2hsVUhkSGFYZG5OVFZGY1ZsNVVpMHpTVEJCWjJOU05USkJVekZRWmtsYVZETjNWM1J4ZVVSdmNWUkZPVlY2T1VOVlJEQkJPV2hrV1ROeWQxTmpiamgwTURKQlRGZzRhMnByTlY5bVZXY3RaRGQ0WVRkeFoxTjJaak0zWmxWeVRFbDBTMHhUZFhJNGVVMXVOa3R6T0Uxck1GbDBPRTFRTFhOaFZtSTFNbEF4ZVVad1ZETVNGM2RrVURGaGRVOUxSbDl0YWpWT2IxQndaa1I1TkZFd0dpSkJTRTR3UlRkRk1IVjJhREowUzBsdlgwMXdiRlJOUW5wTVZVbHJTMFZ0ZGxGQjpkMjQ4ODVkMQ": {
+    "title": "SAP ABAP Developer - SAP Abap ON Hana, RAP Framework, Abap Cloud",
+    "company": "Innovative Information Technologies",
+    "location": "Bengaluru, Karnataka, IN",
+    "url": "https://www.shine.com/jobs/sap-abap-developer-sap-abap-on-hana-rap-framework-abap-cloud/innovative-information-technologies/20047444",
+    "source": "rapidapi",
+    "score": 0.825,
+    "bucket": "relevant",
+    "notified_at": "2026-11-12T14:57:36.840041+00:00"
+  },
+  "rapidapi:jsearch:RlEyLUlBWnhxSXJQNFlnQkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZVlpHWlRoVGRYSlpibEptVkdaQk5WTkRlR1EyUm1FemVVTmtVMVYzYVV4SFRXZGxVMmsyTW5KaWN6WktPVEpYYzNBeFdqZ3RPVm8zVlZRMGNFcFFMVVIwTjNkUFF6a3dSVmM1YVZRd1pEQktaWGhYVFd4RVVrWkhOV3hKVjBGR1EzbEtaVk5yTUhwR1MyczNibE56UjFoUWFpMVdhRlJqY21rNVdEbENhM2RtUVU1NkxVY1NGM2RrVURGaGRVOUxSbDl0YWpWT2IxQndaa1I1TkZFd0dpSkJTRTR3UlRkRlUyaHJSV2sxZFVoT1JteHJOSFZ2TUZSSE5WTmxZamh5ZVZCbjpkZjFhYTNjNQ": {
+    "title": "Sap Abap, Btp",
+    "company": "ConnexR Solutions",
+    "location": "Chennai, Tamil Nadu, IN",
+    "url": "https://bebee.com/in/jobs/sap-abap-btp-connexr-solutions-chennai--ss-in-1r6lhnj",
+    "source": "rapidapi",
+    "score": 0.825,
+    "bucket": "relevant",
+    "notified_at": "2026-11-12T14:57:36.840041+00:00"
+  },
+  "rapidapi:jsearch:cHJmMEV3c0dTSDMzMS1raEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXVEpHWVV4Tk1sVldVQzF5UlVwblkwZGhOWEYzWlhsbFVUbDBVVVkyWW1ORVZURTVVR0l5WkZOVWIzaEJObkZWUWtGbFJVcGtkSFpKV2pWdmVDMTZaRVIyV25KSk5EbHRTVTl6UjNGUVUwSkJhRFl0VEVOeFpEQnlaMDVyZDNwbmJWSkxjbGhaTWxwTk1IZE5Vakp3VURneWFsWllhMVZDYUZkck1GWkRRMWRPUlV4U2JrUVNGM2RrVURGaGRVOUxSbDl0YWpWT2IxQndaa1I1TkZFd0dpSkJTRTR3UlRkSFZucDVTVWxoVEhCYU1GOU1NamQyYzBWc01FaFFhMXBaWTFwUjpiMDI3YzI5Ng": {
+    "title": "Opening For SAP ABAP with RAP (Delhi)",
+    "company": "Tekskills",
+    "location": "New Delhi, Delhi, IN",
+    "url": "https://in.jobrapido.com/jobpreview/1177712778467606528",
+    "source": "rapidapi",
+    "score": 0.825,
+    "bucket": "relevant",
+    "notified_at": "2026-11-12T14:57:36.840041+00:00"
+  },
+  "rapidapi:jsearch:ak01Y0hVaFFCaHJITXAxQ0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZa3RMWXpSNVRGRk5SMkpDVVZWRGEyODBlV3B4T0dOSGRrcGliRGxaUTBkUFltMXpXVmxKTVRoc2RHWXRXV1ZmTmxCbWVVZHNkamRPYkVack5XbzJORnBrZVV0bVlUTm5TVzg0U25aSlVYTTNjRTVsWjA1Q2NVSkhWRFp2UldveU5VaEJlbFEwVmpVMFpqUmhUVUYyUm14WVJreGtTR1pUTldwU09IRktXWGszVjBsVUxXc1NGM2M1VURGaGRtRndVRXg2T1hBNE5GQTBTeTFITmxGbkdpSkJTRTR3UlRkRlZYVlVPWGw2TUVOQmNtOTFRMHBqY1ZoR01USnVOMGs1VUd0MzpmNWJmM2RhNw": {
+    "title": "SAP Senior HANA Data Modeler",
+    "company": "Kiya.ai",
+    "location": "IN",
+    "url": "https://bebee.com/in/jobs/sap-senior-hana-data-modeler-kiyaai-bengaluru-chennai-hyderabad--t7xk-930029298",
+    "source": "rapidapi",
+    "score": 0.825,
+    "bucket": "relevant",
+    "notified_at": "2026-11-12T14:57:36.840041+00:00"
+  },
+  "rapidapi:jsearch:ZS1IMklJazM5cHN4bWh6c0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZa2xOYVdkYWNWb3dXWGxRV0Voc0xXVnZTRFYxVldSWVMxUktTVmgxVFRKd2IxSk9VR1JzZDBKdE9XbHdkMk13ZUZGTlNHd3hPSGRUV0dkdVNIcGpiWFF0VjJoQllrMUxUVGhwUm1WS056RTFaMlZvU1VsSU5DMTFZVXM0VEdsRWNEQnBTelJpWWtoeGFrUmhiMjVzWm1ad2RrNW5jbWRTZUZFd2JsY3RZMHBYZDNBd1QyUVNGM2c1VURGaGNubHNRV1JFVnpGelVWQnFkVzFyTkZGSkdpSkJTRTR3UlRkR2EyTkhNVTl2WkVSSFRVSTBNRTVtVkc1clJVeE9kV1ZSU0Zobjo5N2JkYzQ4Mg": {
+    "title": "SAP FIORI Lead Consultant - Enterprise Apps",
+    "company": "Birlasoft Limited",
+    "location": "Pune, Maharashtra, IN",
+    "url": "https://jobs.birlasoft.com/job/Pune-SAP-FIORI-Lead-Consultant-Enterprise-Apps-INDI/57133844/",
+    "source": "rapidapi",
+    "score": 0.953,
+    "bucket": "relevant",
+    "notified_at": "2026-11-12T14:57:36.840041+00:00"
+  },
+  "rapidapi:jsearch:anItSnNEU2oxYzBmUXdKNUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZWEJ4VjJOQlYwWm1NSGhDUTJSbFVqVkZOVzV6VnpSSlpFeFVOV1ZLZG1sR2IzTlNMVzlpY0hCdldraDNXSHBSTlROZmFsQkVWVTl4YURkdmVuUnRRV05zWTIxNE9YRTFiR0YzU1dKdWQxWTJhRmhTV1drdFYyTkpTREp1WXpkVFkwNWhXRmt0WkZKSVFsbGpjMjgyTUZOeFlqQm1OWE5DVkMxblgycEJlR2R1YUROd09IRVNGM2c1VURGaGNubHNRV1JFVnpGelVWQnFkVzFyTkZGSkdpSkJTRTR3UlRkSU0yNVBkMGxEVldRd1lrZFFSM1ZXUm1Oc1VtUXdTR1JRWmxSQjo3MGY0MGFjMQ": {
+    "title": "SAP BTP/Work Zone/Fiori Developer",
+    "company": "Trigyn",
+    "location": "Mumbai, Maharashtra, IN",
+    "url": "https://www.trigyn.com/job/sap-btpwork-zonefiori-developer-0",
+    "source": "rapidapi",
+    "score": 0.825,
+    "bucket": "relevant",
+    "notified_at": "2026-11-12T14:57:36.840041+00:00"
+  },
+  "rapidapi:jsearch:WkhiZWpUWGJHelhpUUxvWEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZamxCU1dSTFZrWTNWR2d0UWtoWGVYTTBOMG8wU1hOWFVWZERXSEpHTjBwUExWWk1ia0pwWTFkVFFtb3dTSEJ4VjBnelpVdHNaMDlGVWtGcFdqSmhRMWRyUldKc1ZFaHBPRUZoVm1zd1RFcHRZMDgxVVZGV2FHeFphV3hZVTIxeFZFTmlUa3hvWm5WbVVrc3hhbDh3U1UxVmNtWTJXVUl3ZERnNFpWWnVPV3BOY1dObVdHVVNGek4wVURGaGNESlFTelZsYVRWT2IxQTNYemRXTkZGdkdpSkJTRTR3UlRkR2JITk1NMll0U1ZacFFtUlNWR3Q1VUc1QlNXdDRjMWR1UTBGbjo3ZDg4YzUwNA": {
+    "title": "Package Consultant-SAP HANA SCM MM",
+    "company": "IBM",
+    "location": "Hyderabad, Telangana, IN",
+    "url": "https://in.linkedin.com/jobs/view/package-consultant-sap-hana-scm-mm-at-ibm-4487846451",
+    "source": "rapidapi",
+    "score": 0.492,
+    "bucket": "maybe",
+    "notified_at": "2026-11-12T14:57:36.840041+00:00"
+  },
+  "rapidapi:jsearch:SHhHNnBsbzFPa3VpRm02WEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXWFF6TjFsVFYwUTVTMlJ4TURGSloyUm5WVmRFY25WbGMwRjFhazU0UzE5V1ZWSldSVmcwYmxaNFlXdEhTVjh4YkRRemJUaEdUVzVzT0VGcFJsZHRRWFUxTTNsbVlqUjVjV281ZFVKSVVtTlBkbEJGWDJWemNWcDVRVVUzUVZCeWMxcHFRbkZKVlZGTllVZHpkbXhOWWtObmJFdFRSbFZzVUVVNFNXODJiRXQxVDBwU1Qwa1NGek4wVURGaGNESlFTelZsYVRWT2IxQTNYemRXTkZGdkdpSkJTRTR3UlRkSU9IUlVSSFZ6YlRGdFVqQjBSa1ZuU1dJeFREUllkbEZOU1RWUjo3ZDg4YzUwNA": {
+    "title": "Package Consultant-SAP HANA SCM MM",
+    "company": "IBM",
+    "location": "IN",
+    "url": "https://in.linkedin.com/jobs/view/package-consultant-sap-hana-scm-mm-at-ibm-4488206648",
+    "source": "rapidapi",
+    "score": 0.492,
+    "bucket": "maybe",
+    "notified_at": "2026-11-12T14:57:36.840041+00:00"
+  },
+  "rapidapi:jsearch:XzRESU91bGVYRFpfMFpsdEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXbEZLVDFsMFIxTXhNMDF5ZVc1aFFWOWtUMVUxYVZsU1gxSnpjMWhJTm5WME1YaFhVREl6TXpORFptUjFRMVZVV1cxUlNGYzRXVWxCTVZOQ016bHBVbkZ6TTBKWlJITjZPVWhaYjA0M2EwWTVjMmt0YTBkeFdrVmtXalZLZDFSM2JqWjZRVjkyU1haUGNDMUdhblZ1ZEhOamVtTXlRMVZGY21ReU5XaHFkWFJuVDNkaGJqTVNGek4wVURGaGNESlFTelZsYVRWT2IxQTNYemRXTkZGdkdpSkJTRTR3UlRkR2NFdHFWREZsTkU5aFRqVmhNRWMwTjFwdlJ6WkpTMmRqWkdKbjplODMwMGI2Nw": {
+    "title": "Package Consultant-SAP HANA Master Data Governance",
+    "company": "IBM",
+    "location": "Ahmedabad, Gujarat, IN",
+    "url": "https://in.linkedin.com/jobs/view/package-consultant-sap-hana-master-data-governance-at-ibm-4487858079",
+    "source": "rapidapi",
+    "score": 0.492,
+    "bucket": "maybe",
+    "notified_at": "2026-11-12T14:57:36.840041+00:00"
+  },
+  "rapidapi:jsearch:dnB2c3BLbXFkc29rZEN5S0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXbTVhTkhoTmVGTXhOMU5SUmpGTE9HNTZTa1JyUkU1WVpVTmZTVzVrYlVKS2VsQTVjbnAyY0RWcU5FSTNSR1k0VW5aV1VtVlJRMGxpZGpOVmVGbDZPRTlDTFRsRlZXWjJSbVJmZFhsSmRrbzNNRE5wVW1KRExWUmtaVE5WU1RWNlYzUkxkSFl6VTI0dE5qTjZTME01YmpOcGFWVXRWVVpJVWxSc1NtMUVURVpEY0RKb1pHOFNGek4wVURGaGNESlFTelZsYVRWT2IxQTNYemRXTkZGdkdpSkJTRTR3UlRkSWRtVkVla0U1VlVKTWJraFhPRUZITUhaa1NFeEVRa1ZzYkVkUjo1MzgzYzJmOA": {
+    "title": "Sr. Consultant - S/4 HANA SD Job",
+    "company": "YASH Technologies",
+    "location": "Hyderabad, Telangana, IN",
+    "url": "https://in.linkedin.com/jobs/view/sr-consultant-s-4-hana-sd-job-at-yash-technologies-4488641842",
+    "source": "rapidapi",
+    "score": 0.492,
+    "bucket": "maybe",
+    "notified_at": "2026-11-12T14:57:36.840041+00:00"
+  },
+  "rapidapi:jsearch:c1FMYnRpa2QzVHZZS3BHeUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZVFo2VkZGdFdYVmFaWFYwZG1sMmQyWlJWREJ4VUVaemFFbElSVWMwTmtSTmIxQjFjVVJNZEZvd1JtTmpSbkp5VDB4M2FVUm1MWFpNVGxCWWExSlZUMmRJY0d4WlVsZHZVVFl4V21KWU9HWXhjSGcwZVZOeVNISjJURWQ1WW5CV1QycGhXVXRKVm1wdVkyZHliRW8wWHpGNVIybDVTR05NUzNoVldVVjBjV1JtVWtaUlVsOFNGek4wVURGaGNESlFTelZsYVRWT2IxQTNYemRXTkZGdkdpSkJTRTR3UlRkSVNYTjNOM052ZEdGeGJWbExibVk1T1U5dE4yazNlbGhFUjNaMzpiZjc5MDQ1MQ": {
+    "title": "Package Consultant-SAP HANA FIN FICA",
+    "company": "IBM",
+    "location": "IN",
+    "url": "https://in.linkedin.com/jobs/view/package-consultant-sap-hana-fin-fica-at-ibm-4487423284",
+    "source": "rapidapi",
+    "score": 0.492,
+    "bucket": "maybe",
+    "notified_at": "2026-11-12T14:57:36.840041+00:00"
+  },
+  "rapidapi:jsearch:M1VmVThMVjRpdkp2LTRJV0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXbVpIV0hjdGJIbHZTaTFNWTI1V01IUkxSazFmYm1WVmRqUXhXVE10U0ZGR1dTMXFPRk5vU1hKa05XdFdkVE5vUzFSME5EbEZVRVpDVlhRMlEyWjVSVzF0TTI5elV6ZEJVRzFOTVRablFYVkJXbGMwUjFNNE5WOVdOak5NVW5JMFQyWTRZMUZ5TjFkMFRGcHRWVk4xVm1wek9HcGljMGQwZDBGT2RsZFNPV0UyTld0WU0zb1NGek4wVURGaGNESlFTelZsYVRWT2IxQTNYemRXTkZGdkdpSkJTRTR3UlRkSVVWRjZOREZaUlZKNlUyTnZYMVpRTmpscmVsRjRUMDQ1VW5CUjoxMTlhY2IzZg": {
+    "title": "Package Consultant-SAP HANA FIN CO",
+    "company": "IBM",
+    "location": "Hyderabad, Telangana, IN",
+    "url": "https://in.linkedin.com/jobs/view/package-consultant-sap-hana-fin-co-at-ibm-4487474410",
+    "source": "rapidapi",
+    "score": 0.492,
+    "bucket": "maybe",
+    "notified_at": "2026-11-12T14:57:36.840041+00:00"
+  },
+  "rapidapi:jsearch:a3lKaXRkTkc5bEctQ2xzNEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXalJqY0haWVJXMWpSVlJWZEhjd1NtSk9jVGRaWDI4elJGVTVkRzA0TUhaRVoyVlFOVzFzUVdaRWFEZGtWemxPWVhGbU1rODFWemd4UnpkTk1sQmZPWEZDU2preFVVSkdUMjB3WVROTGVFNXVWbGhpVDFKZlRrSjBZakZMYjB0M2VtOTJXVkV0T0V0a05GbGZVRFZpZWxKT1gzcDFkVWd5ZVhwWFdFVXlVblEzVlcxb1RXc1NGek4wVURGaGNESlFTelZsYVRWT2IxQTNYemRXTkZGdkdpSkJTRTR3UlRkRlJVUXRTVkZsTldwbFUzWldha1pDUTJoclMyMUxURzV3TVRSUjo3ZDg4YzUwNA": {
+    "title": "Package Consultant-SAP HANA SCM MM",
+    "company": "IBM",
+    "location": "Ahmedabad, Gujarat, IN",
+    "url": "https://in.linkedin.com/jobs/view/package-consultant-sap-hana-scm-mm-at-ibm-4487417483",
+    "source": "rapidapi",
+    "score": 0.492,
+    "bucket": "maybe",
+    "notified_at": "2026-11-12T14:57:36.840041+00:00"
+  },
+  "rapidapi:jsearch:NG1Hc1ZFalR0UHR3RENNX0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXV1JFZUVsMVdsbEpRVFY0VDFNdGNIY3RSMHBhVFZBeGJXVlZObE42VVRKeVkyOU5aV2szWW1aVWRESkVUak5rY0d4bVIwTlVielZ6V200MFNFMVRWbFJ1TUVwd1FUSnpaWGgwWTFkcFh6VlJXWE5SYW5Jd2FGSkJTM2s1V2tGcldtVkxjWGt6VTFZNFNsZENibU5HVEhneFJVOHRla0pzWmxGUk1YcEpaSGxTVkVKU01uTVNGek4wVURGaGNESlFTelZsYVRWT2IxQTNYemRXTkZGdkdpSkJTRTR3UlRkSFdXTmFSMkY0VVZaV00wOVlXa3RyYkVrNU1qVnBRMjF1Um01Qjo1NGM0NjVhMQ": {
+    "title": "Package Consultant-SAP BW HANA Analytics",
+    "company": "IBM",
+    "location": "Hyderabad, Telangana, IN",
+    "url": "https://in.linkedin.com/jobs/view/package-consultant-sap-bw-hana-analytics-at-ibm-4487414785",
+    "source": "rapidapi",
+    "score": 0.658,
+    "bucket": "relevant",
+    "notified_at": "2026-11-12T14:57:36.840041+00:00"
+  },
+  "rapidapi:jsearch:a1dORE13S2xBaGFmYVNDSEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZVzkzVW5sd01HZFFUVFUzWVdSb2EzVkJVRmQxUkV0VVIxaDZaRXBIY0ZsaFkzSkVZbTlPT0RnNE1rMDFORkprYjFWQldqUXpXREoyYkdaTFUyVktlaTE2WTFnMFdWZFFWbWxPZFcxVE5WYzVkSFpvYjE5bGFVRktSekZRUTBsNWNsaGhaalV3VEhGRFpXTjNURVpTTVd0TU1XaGtPVXQwWVROak9YWXpVVXcyWDJ4a1NHSVNGek4wVURGaGNESlFTelZsYVRWT2IxQTNYemRXTkZGdkdpSkJTRTR3UlRkR2FsaHJTelZrTFcxcU4yTndNWE4xZVZCWlpscFdUMTl4U205bjozYTVhMzRmOA": {
+    "title": "SAP ABAP-Staff",
+    "company": "EY",
+    "location": "Coimbatore, Tamil Nadu, IN",
+    "url": "https://in.linkedin.com/jobs/view/sap-abap-staff-at-ey-4488686728",
+    "source": "rapidapi",
+    "score": 0.825,
+    "bucket": "relevant",
+    "notified_at": "2026-11-12T14:57:36.840041+00:00"
+  },
+  "rapidapi:jsearch:MlZMUmlXT3ZIZkt6UFc3M0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZWGRNUjI1c1kyMXdkSFZuYUZSSWEyNUdURTgxUW1rNE1tcENaelp6U0MxclRYbFBXRWcxTmpSbE9XdEljVk4wZEY5cE0weDZOR3BqUTNkMlpHY3dUV1pvWHpKTFVtOW1OM1ZGZGpaeGEzbE5VSG90Y1dOU2JtaEJSMmxIVlVOdGVEWktXRk00WWtoV1p6UTNhMDVVUzFKYVQwMUNRVjlmV1ZkQlNEbEJNMUJ0ZGtKNmJFd1NGek4wVURGaGNESlFTelZsYVRWT2IxQTNYemRXTkZGdkdpSkJTRTR3UlRkSGRuWmpkazAyTlZsMFFVNDFURWhuUnpGaVZWbE5kamxIUnpOMzpkMjQ4ODVkMQ": {
+    "title": "SAP ABAP Developer - SAP Abap ON Hana, RAP Framework, Abap Cloud",
+    "company": "Innovative Information Technologies",
+    "location": "Bengaluru, Karnataka, IN",
+    "url": "https://www.shine.com/jobs/sap-abap-developer-sap-abap-on-hana-rap-framework-abap-cloud/innovative-information-technologies/20047444",
+    "source": "rapidapi",
+    "score": 0.825,
+    "bucket": "relevant",
+    "notified_at": "2026-11-12T14:57:36.840041+00:00"
+  },
+  "rapidapi:jsearch:alZuVl9kbEtSUFh4dlo1N0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZazlhZDJKRFZEUk9kVXhIU1dSTFdUUmxXR2RWYzJWVU1EQnRiRlV3Wm5aWWEzaFdNMlpFTkc4MGRFZEZVM0pVVFZNMVpXRnVOVXN5UkhvMWIzQnRUVXRSVEc5R04yUXdkaloyUlZCNWNqY3dWMDFyVkdSek9GOU9UV2hNWkdwamRFNW5PV3R3TW0xd1ZVOWhlRlJaVW1sZlIzaFNjMjlFWmxjeVFUbEtVR0phYW5aR1oxWVNGMWxPYWpGaGMzSm9SRTVJVkRWT2IxQXpaamRCZVVFNEdpSkJTRTR3UlRkSWVuVkxlRE52TUhwWFRYbHNUVGRQY0ZacWIwNWpSVVkzY0hkbjpiYmU4ZjZkMA": {
+    "title": "SAP ABAP Developer - Abap ON Hana, Amdp, CDS Views",
+    "company": "Innovative Information Technologies, Inc.",
+    "location": "Kolkata, West Bengal, IN",
+    "url": "https://bebee.com/in/jobs/sap-abap-developer-abap-on-hana-amdp-cds-views-innovative-information-technologies-inc-kolkata--fj-2463502245",
+    "source": "rapidapi",
+    "score": 0.825,
+    "bucket": "relevant",
+    "notified_at": "2026-11-12T15:17:24.715746+00:00"
+  },
+  "rapidapi:jsearch:RlEyLUlBWnhxSXJQNFlnQkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZazB6VDJOUldsQnJTVFpDYmtkUFozWXlhV3BDU1RkV1dXbFZYMDlsU0RrM0xWYzVNVXR0WnpGWGFrOVVWbWMzTkZjMGNtUlhkR0o2YjA5S1RHdERhVVZPWjFsaWRqZEdaSFV3WTBRd1lXVnFjVXB6YldOelNtTkJiR3QxUzBZMFFWbGFTa2N0WDBJMWVVSlhXRXhaWTFJMk4yMUlOVjgzT0Y5S1dqYzBVVXRYUTNWalpEZ1NGMWxPYWpGaGMzSm9SRTVJVkRWT2IxQXpaamRCZVVFNEdpSkJTRTR3UlRkSFNUZzNNa1pRVmtoaGJsY3lTSFZuTTE5NE4xQkNSRVpJZEd0QjpkZjFhYTNjNQ": {
+    "title": "Sap Abap, Btp",
+    "company": "ConnexR Solutions",
+    "location": "Chennai, Tamil Nadu, IN",
+    "url": "https://bebee.com/in/jobs/sap-abap-btp-connexr-solutions-chennai--ss-in-1r6lhnj",
+    "source": "rapidapi",
+    "score": 0.825,
+    "bucket": "relevant",
+    "notified_at": "2026-11-12T15:17:24.715746+00:00"
+  },
+  "rapidapi:jsearch:b1lqN3k0UzViYnM2eW92d0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZbUpyWHpZNGMxRkZlSGxMWDJGRGNXUXRRVVk1TFdoRGNWZEdjV2sxZGtaYVNWZEpXSGxETnkxVE5tdFpURkpRZUVWb1VVRnBValpEZDJwRU9XbElRa1YzYUV3emRYUmtaa0paVlZKWk1Gb3pTbEI1UVRaR1dITllZMUJ0VDFoZlpsWm5kMEpRYm5OcWMxQlJjSEJuWkRVNWNWSXRiVFZhY21oeFYySlFlbDluY1ZSeFNGZ1NGMWs1YWpGaGRVaFJSbUZ4ZUhGMGMxQnViMHhNZFZGdkdpSkJTRTR3UlRkSFpWcEdkekl0Wms0elJYbHZORXB5ZUdoNU9FbEpXR1JaZVhCbjo4MDExMmVjMg": {
+    "title": "SAP Commissions Embedded Analytics Configurator-Senior",
+    "company": "EY",
+    "location": "Bengaluru, Karnataka, IN",
+    "url": "https://www.simplyhired.co.in/job/EUXaHRmedJesuEml0vhgIuV1oxjwpxZcBvHwUqMrIAInJSL8JKOWPg",
+    "source": "rapidapi",
+    "score": 0.658,
+    "bucket": "relevant",
+    "notified_at": "2026-11-12T15:17:24.715746+00:00"
+  },
+  "rapidapi:jsearch:ZjYyLWk4MXhKeXZuMnNCa0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXWGxHWTNWSVdsZGZPVFEzWjBZNFMyeHpOVnB6UTBselJpMVFPRXc1VVU5WGFYUkdiV05VVDNWWlpUY3lNelJtWnpsNVRHVnRNalpvYXpVeFpIVnJkMVZPZUVwb1dGbHlaV1pvZG1aWlF6UktOVXBYTUhSRUxWY3dVazVET0V0cmF6UkZaVWhZUmtoRE5GQTJVamczU2tGTWQwNWlabnBMWm5ORlR6VmlkMUJvTWxZekxUa1NGMWs1YWpGaGRVaFJSbUZ4ZUhGMGMxQnViMHhNZFZGdkdpSkJTRTR3UlRkSVNIQjVNWFZCT0Y5dk4ydExMVWxUZUV4cVVWcFVWRVV0ZURsbjo4MDExMmVjMg": {
+    "title": "SAP Commissions Embedded Analytics Configurator-Senior",
+    "company": "EY",
+    "location": "Karnataka, IN",
+    "url": "https://in.indeed.com/viewjob?jk=e3789c01042296bc",
+    "source": "rapidapi",
+    "score": 0.658,
+    "bucket": "relevant",
+    "notified_at": "2026-11-12T15:17:24.715746+00:00"
+  },
+  "rapidapi:jsearch:LS1YVjJWWDllY2s0Q21meUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZbEZmVjNCcFMzaFlMV3RyWlMxdU4xZzVTRWhPUjFaSlNrRmhVVk51VW1WSlMxSTBUMHhrTWtkRGFGVmhaMGQ0WVVReVEwcFFha0ZMTkhOUmJWODFXV0Z6TWxsSVIwcHFaVzFZU1VwUmRGSjNUVUY1TTJnMmExaDRkbk5OU21wU1JIYzJNalpvVW1kUmFWVjNjazlUZERkcVkwMWpkRGhrVUZFM2VqRnlRVTlHUzFsbGEwVVNGMWs1YWpGaGRVaFJSbUZ4ZUhGMGMxQnViMHhNZFZGdkdpSkJTRTR3UlRkSFdVWlVaMmxTVkZCU2VpMDBNVFZCU21kcVpVd3pRM0J6TVdkQjpmZjYzNjIyMQ": {
+    "title": "SAP SAC Developer Reporting & Embedded Analytics.",
+    "company": "CYAN360",
+    "location": "IN",
+    "url": "https://www.foundit.in/job/sap-sac-developer-reporting-embedded-analytics-cyan360-india-69780555",
+    "source": "rapidapi",
+    "score": 0.658,
+    "bucket": "relevant",
+    "notified_at": "2026-11-12T15:17:24.715746+00:00"
+  },
+  "rapidapi:jsearch:TkZLZmRXSWpjdklzZmhITUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXVzFZTVRNME16YzFPR3B4VFVwNFdraDVUbDh5YlRSd2RtNXJZMnMzU0hZNFMwOURlRXg2YWtoeFRXVkxWWHByV1ZaUWNWQmlTV0prTUdKclgyOXlTV3BCZDFSWk5FTnlWekZNYW5KWlJuZGlaRUkyWlRrMU1YWk5WMk00WnpoUWVFSmFYeTAyUjJKS1ZtOWFkR3RFYWpWTVgyZHFNSEF3VFdZek0xUkNOa05NTmt0VFVUUVNGMXAwYWpGaGRESjJSbGxIZURWT2IxQXlVRzAyTFVGTkdpSkJTRTR3UlRkR1JTMXJVazVIVWw5bmNIZEpZMGxDVWpGRlNEWmZRbFpxU1c5QjpiOTY5N2U4Zg": {
+    "title": "584218_SAP Analytics Cloud & Datasphere Consultant",
+    "company": "Trigent Software",
+    "location": "IN",
+    "url": "https://bebee.com/in/jobs/584218-sap-analytics-cloud-datasphere-consultant-trigent-software--ss-in-17eo6uo",
+    "source": "rapidapi",
+    "score": 0.33,
+    "bucket": "not_relevant",
+    "notified_at": "2026-11-12T15:17:24.715746+00:00"
+  },
+  "rapidapi:jsearch:d2thRmVKUEhFVzFiZTBiUUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZaTFIZERKaGRtWlNaMUpXZVZwM05qaHhWRGQwVTI1amNHWnJXWEpDVXpaQk1XTnNSVjl1T1dkYWVrdGplbEU0YldscFVXWnNibFpyVjFkSk1EVk1XbDlQWjFSc1ZFeFNXRXhaYVdwVVVrcHhjRE53YldGNFlubDVUSGRuTkV0VlYwaFRXR2hCVEhJMFZsVmlNakJpZHpVMmJsaExkbWxWVUY5SlpEWnZaVTVwVWxwYVdGOFNGMXAwYWpGaGRESjJSbGxIZURWT2IxQXlVRzAyTFVGTkdpSkJTRTR3UlRkSFNVbHdVVGcwY2xWMmQyTlZOSGg2ZFdobmVFZHhXbmwzVkZWQjo3YmMwNWM1Nw": {
+    "title": "SAP Analytics Cloud & Datasphere Consultant (Chennai)",
+    "company": "Virtusa",
+    "location": "Chennai, Tamil Nadu, IN",
+    "url": "https://in.jobrapido.com/jobpreview/3649588640545243136",
+    "source": "rapidapi",
+    "score": 0.825,
+    "bucket": "relevant",
+    "notified_at": "2026-11-12T15:17:24.715746+00:00"
+  },
+  "rapidapi:jsearch:V0tIdnNNcWVsN0JsckFSZUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXVWN3ZDNSdE9UaEVjWFZvVVRaRE5GSkZVamxxVm5kbmRqVnFjMDFoTjJkR1oxQjNZWEpZUjFKM2NGTlFRM1Z3TnpGb1QwNU1kMkpyVWs5VmIxQjJTRzFaYkRRNFRIUXdkMjlzU2pOSWNtbGFSRWh1ZGtoeExWZG9PR3RKWm1velUyVkJZM1U1WVc0MmNUSlVPSGxmYlRWSlpsRk1SVVF6YmpRM1RtbGlOa1l6TnpnNFdFZ1NGMXAwYWpGaGRESjJSbGxIZURWT2IxQXlVRzAyTFVGTkdpSkJTRTR3UlRkSGFFeHROaTB0UVUxSlRFTnJOWGgzU0dsMFNHeFpibGhzVjBSQjpmMGYzMGRhYw": {
+    "title": "SAC UX Developer / Datasphere Developer",
+    "company": "Fusion Consulting",
+    "location": "",
+    "url": "https://jobgether.com/offer/6af3392f1b1a9ee7d65f0192-sac-ux-developer-datasphere-developer",
+    "source": "rapidapi",
+    "score": 0.33,
+    "bucket": "not_relevant",
+    "notified_at": "2026-11-12T15:17:24.715746+00:00"
+  },
+  "rapidapi:jsearch:dGM3Z19RWGdoLVVDU0lkbUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXbXd6WDJscmVtTnpkVWxSYW1OSk9XOWhlVlpIY2paTU9EUmpRa1JLWWs1T05WRkpaRWwxYUhaTVJ6SnRlSGxoUTBoamFWWTBRVGR0T0daaU5uQndkakJsV0VaalduUlNVbEZJWmpCVVMyTmpUMk5FV1RjNFYyeEZOV1JvZFVKa00zQmxXakV3VlhwUVRHbG1VMnhTTTFWcmQwaHFNMnRmWDJoZlh6aFVOVTFxVkhKWGVWOFNGMXAwYWpGaGRESjJSbGxIZURWT2IxQXlVRzAyTFVGTkdpSkJTRTR3UlRkRmFtZHFUbFpqZDFwTFZXNUNaVFpsWWtOeGIyb3RUVFYyU2s5QjpmOGY3ZmVjNQ": {
+    "title": "Senior Product Specialist",
+    "company": "HCLTech",
+    "location": "Indergarh, Uttar Pradesh, IN",
+    "url": "https://www.simplyhired.co.in/job/L31nPKoDMrD0in0bpwly5oFeZOhqTRxoaNmTxTW9BmqsmAEm_wyByw",
+    "source": "rapidapi",
+    "score": 0.508,
+    "bucket": "maybe",
+    "notified_at": "2026-11-12T15:17:24.715746+00:00"
+  },
+  "rapidapi:jsearch:MlZMUmlXT3ZIZkt6UFc3M0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXa1JSZVZaV2JUQmhja2xoV1dnNWFIWjNTa1UzVGtscU9VNTBTRFZVU1hodlR6SkZYMFV4U1RjeGVUSkRhV05aWDNsRGJXUlNhMnh6T1ZWS1VUVk5Razg0TFZKWU5WOTFUVUZVTjAxUVJFZzJNRTF5ZW1KVU56ZFVhMjk1WnpONVgxaFJaRXRwU0VOMU1USmlaVGh5TVhGME5URjJNMUF4V2tSbWVDMDBVVFZHT0dGaVNFZ1NGMk5PYWpGaGNtWlVURzgyVG5oak9GQm9kbGRGTmxGRkdpSkJTRTR3UlRkSE9DMXNSazVZYW1KMVVUZFJNR1ZSYVUxc2FrdDZhM1JxT0dsbjpkMjQ4ODVkMQ": {
+    "title": "SAP ABAP Developer - SAP Abap ON Hana, RAP Framework, Abap Cloud",
+    "company": "Innovative Information Technologies",
+    "location": "Bengaluru, Karnataka, IN",
+    "url": "https://www.shine.com/jobs/sap-abap-developer-sap-abap-on-hana-rap-framework-abap-cloud/innovative-information-technologies/20047444",
+    "source": "rapidapi",
+    "score": 0.825,
+    "bucket": "relevant",
+    "notified_at": "2026-11-12T15:17:24.715746+00:00"
+  },
+  "rapidapi:jsearch:RlEyLUlBWnhxSXJQNFlnQkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXWEpTZHpKUGNpMHplVUpwWkZCM1kzZzBSRkZqZWpNMFVsSmpRM3BqTW1weFFXeGtkbXd6WTNKZlVHaFhVbTF4ZDJwRVMybEdjMFl4VDNsaFZqUm5XRkJaWjNGdlNYSjRVeTFRTlVWa2FESkJYM2hFWmkxMk1uVTNOMTlqVERkNWVURjFPSGxzVldobGIwUnBVR1prV1hBMWJrOHlUa2hmTVRNeWEwWnViR1ZYU0hsSmRUVVNGMk5PYWpGaGNtWlVURzgyVG5oak9GQm9kbGRGTmxGRkdpSkJTRTR3UlRkR2FtTkhUakZPV25jMGFqQk1URlkwVFdaSmRrbGhRazFwVXpCbjpkZjFhYTNjNQ": {
+    "title": "Sap Abap, Btp",
+    "company": "ConnexR Solutions",
+    "location": "Chennai, Tamil Nadu, IN",
+    "url": "https://bebee.com/in/jobs/sap-abap-btp-connexr-solutions-chennai--ss-in-1r6lhnj",
+    "source": "rapidapi",
+    "score": 0.825,
+    "bucket": "relevant",
+    "notified_at": "2026-11-12T15:17:24.715746+00:00"
+  },
+  "rapidapi:jsearch:cHJmMEV3c0dTSDMzMS1raEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZVlpoWm04MGRVTnBZMmRxU1dacVRsRmxNWGhWUTE4d2NWWXRWbVZGWVUweU1rWXpYMEpqWlRsRU5IQTJWRmhVTUhoUGJXUk5abmN0U1dkaFgzZEdUa2RJZWxOUldtbDFlR1V3VlRST05sODRSRkkzWjNnMVRuSXRTRTFTV25oUlMyRkRlRVJzVTJzM05uSlpUekF0UWtONE9FNWlaMTlwWlUxSU1tbEVUVU5VVWpSVFEwZ1NGMk5PYWpGaGNtWlVURzgyVG5oak9GQm9kbGRGTmxGRkdpSkJTRTR3UlRkRlZGcEhTV0ZLWlhCM05YRmZhQzAzZWtSc1EyVnZjR1p6TFV0QjpiMDI3YzI5Ng": {
+    "title": "Opening For SAP ABAP with RAP (Delhi)",
+    "company": "Tekskills",
+    "location": "New Delhi, Delhi, IN",
+    "url": "https://in.jobrapido.com/jobpreview/1177712778467606528",
+    "source": "rapidapi",
+    "score": 0.825,
+    "bucket": "relevant",
+    "notified_at": "2026-11-12T15:17:24.715746+00:00"
+  },
+  "rapidapi:jsearch:ak01Y0hVaFFCaHJITXAxQ0FBQUFBQT09OkVzc0JDb3dCUVVSRVlsZGxXVk51WW5ORlpsOU1jMGN6TkdSWVp5MXNVMkpQVkU1dFptZEpZbWRxTUc1Sk9YWXdTbEpGZWtWbFluWlVibk13V2tRNGF6TXRjelZWYW5WRVFXbGlUbUZ1UlhoUmQzVkxMWGQwTVdnMU5HUlhkMmhzV0VaMFpGaHRVMHQzYldJeVEzVnpUMjlqZEdoTGIwVmxRMXBKWDIxSWJHUmZha0pCY0VGeFVUQktaMVpPV1RkbU5Ga1NGbVJPYWpGaGRESXRUVzlVTW10UVNWQXdPV3BCVTFFYUlrRklUakJGTjBoM2VqWkNNa2RtYW5SR1ZsWmplVTVhWkhKVmNsOHpRMVpDT1ZFOmY1YmYzZGE3": {
+    "title": "SAP Senior HANA Data Modeler",
+    "company": "Kiya.ai",
+    "location": "IN",
+    "url": "https://bebee.com/in/jobs/sap-senior-hana-data-modeler-kiyaai-bengaluru-chennai-hyderabad--t7xk-930029298",
+    "source": "rapidapi",
+    "score": 0.825,
+    "bucket": "relevant",
+    "notified_at": "2026-11-12T15:17:24.715746+00:00"
+  },
+  "rapidapi:jsearch:ZS1IMklJazM5cHN4bWh6c0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZbGR6TFRaUU0ycE9VMXBKTVRGVmJWQnhibEJWY0c1T1JWbDNPVTlGVTNSWFNEVkJURXRVZG5OUmRFOVVPRXBpT1ZWbmNFWmtSUzFLZUdsWlJqbDFXbVV6UWpSaFFsQjFZMEYxWTBSSFoxUjZiMmhMTkhKNVFWSkNOVlkxVjJWcFZrdExlWGM0WWs5T1dFcHRNVFo0TWtkeE9VdE1aRjh6UW5WclMxVkZORGhsUWw5MVdWZ1NGMlZPYWpGaGRHNXJUM1EzVXpGelVWQnBOVE5CTmxGRkdpSkJTRTR3UlRkSFRYTTVkMnd5YW5aWVIwWTBTRzVpYm1SV2JFUnhOVWROTjJwQjo5N2JkYzQ4Mg": {
+    "title": "SAP FIORI Lead Consultant - Enterprise Apps",
+    "company": "Birlasoft Limited",
+    "location": "Pune, Maharashtra, IN",
+    "url": "https://jobs.birlasoft.com/job/Pune-SAP-FIORI-Lead-Consultant-Enterprise-Apps-INDI/57133844/",
+    "source": "rapidapi",
+    "score": 0.953,
+    "bucket": "relevant",
+    "notified_at": "2026-11-12T15:17:24.715746+00:00"
+  },
+  "rapidapi:jsearch:anItSnNEU2oxYzBmUXdKNUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXbEY0UldKc1UzTktOVmxWVUdKc1ZGWkRXVXhLTUVWUVFtTnNaM2RWWnpObU1sUjZOM0Y1VmxoMmRYZEhSVE5yTlVJeVltZGxPRTE2V1dSU1FteFJiRlpyVFMweGMxZ3RTSEpXV1hBME1GaEVhVlp2YjB4ME1HUnhTamd6UjBzMFdIVnhhbmd5YkROS1ZYSmxOSG96UkZselh6QnFOWFkzVkZGRE1WZEdOREpoTkUwMlEzRVNGMlZPYWpGaGRHNXJUM1EzVXpGelVWQnBOVE5CTmxGRkdpSkJTRTR3UlRkSVJFVk5hbmRyWDFSMGF6SnBNbTQwWVdWWk9XUkRWV2QyWWpGbjo3MGY0MGFjMQ": {
+    "title": "SAP BTP/Work Zone/Fiori Developer",
+    "company": "Trigyn",
+    "location": "Mumbai, Maharashtra, IN",
+    "url": "https://www.trigyn.com/job/sap-btpwork-zonefiori-developer-0",
+    "source": "rapidapi",
+    "score": 0.825,
+    "bucket": "relevant",
+    "notified_at": "2026-11-12T15:17:24.715746+00:00"
+  },
+  "rapidapi:jsearch:TkZLZmRXSWpjdklzZmhITUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXV3BqYUVWaGExTTBUMlYyYmpWWFZsUlBVWFp0TTJSbWFWSkZWSEZsU1dKa1VEWmlMVUUyV0MwMFozSlBOVGhEWkRBM1FtRTBSazVmUzFGeldVMTBiRmRQYVhKSmFEaEpTVkZEUW5GT1ExZFdaMkp1TFZNMlRGOUNOR2hZVld0TFF6Qk1VbGRvY1V3elFuRk5XV3BaVjI5SWVscFJkVVpWVGpaVlUwWkJMV3BYT1RsTGJrY1NGMlpPYWpGaGRtRTRRalp1ZEhCMFVWQm5iMU5xZDBFd0dpSkJTRTR3UlRkSWJqQklRbmxYU200elNtbHJSRTVLT0hsNFRrdDNXRVpwUVZwUjpiOTY5N2U4Zg": {
+    "title": "584218_SAP Analytics Cloud & Datasphere Consultant",
+    "company": "Trigent Software",
+    "location": "IN",
+    "url": "https://bebee.com/in/jobs/584218-sap-analytics-cloud-datasphere-consultant-trigent-software--ss-in-17eo6uo",
+    "source": "rapidapi",
+    "score": 0.33,
+    "bucket": "not_relevant",
+    "notified_at": "2026-11-12T15:17:24.715746+00:00"
+  },
+  "rapidapi:jsearch:LS1YVjJWWDllY2s0Q21meUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXa0ZoTkRKTllYbHFlUzFMUTBzNGRWaEVVV1ZNTjJwTWRXeFpWVkJMV1c5dVEwVkxWVzVUWlhKZk5HWnFiVzVuYkVKYVdHVkNka1ZQVFROeWJHRm5aakZ4VGpFelh6SXlUMFpzUWtRd2FsaFhObU4wVUd0dGFrTjNXVmxIVkhoMmNYUjRSR1JGVUdSMFJWbFZYelo2VWxkaGFITnZZMlpvUWtoRFYyaDFhMk4zV2twcVRVb1NGMlpPYWpGaGRtRTRRalp1ZEhCMFVWQm5iMU5xZDBFd0dpSkJTRTR3UlRkSE1qaFpPREpwZDFsUlNXRkNWekZGU0ZGRUxUTlhPRFo0TFd0UjpmZjYzNjIyMQ": {
+    "title": "SAP SAC Developer Reporting & Embedded Analytics.",
+    "company": "CYAN360",
+    "location": "IN",
+    "url": "https://www.foundit.in/job/sap-sac-developer-reporting-embedded-analytics-cyan360-india-69780555",
+    "source": "rapidapi",
+    "score": 0.658,
+    "bucket": "relevant",
+    "notified_at": "2026-11-12T15:17:24.715746+00:00"
+  },
+  "rapidapi:jsearch:bkxtYWNyRElSbnBqNkZQNUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXVGg2UkRoSVQzUXRjMDR6WVVKNmVITm5TelJ6Y21oNGMwdGxhbGd0UkVGNE9GSXRhVWN4VG5obGRXNVVaVXAxTUc1cU9ISmhTV1JhWkhoVU5rSkplRkZSWjFGQlRqWmxUak10TlRsNlZqaGZiMVZPUW01amFHbEVNWEZGUlVjd1dtSnFkRGMyY1U5SlEwdFNVak5RYlcxU056VmhWalpwY2pGeFpWRnlVWEJxTjFaUVp6VVNGMlpPYWpGaGRtRTRRalp1ZEhCMFVWQm5iMU5xZDBFd0dpSkJTRTR3UlRkR2FrSnFTME5aTjFoT1RYWjFNMVUwUTJWTGJUbG5NREZZUzNsMzpiOTBjNmU4NA": {
+    "title": "SAP Analytics Cloud Planning - Senior Associate",
+    "company": "PwC Acceleration Center India",
+    "location": "Bengaluru, Karnataka, IN",
+    "url": "https://in.linkedin.com/jobs/view/sap-analytics-cloud-planning-senior-associate-at-pwc-acceleration-center-india-4478261804",
+    "source": "rapidapi",
+    "score": 0.658,
+    "bucket": "relevant",
+    "notified_at": "2026-11-12T15:17:24.715746+00:00"
+  },
+  "rapidapi:jsearch:d2thRmVKUEhFVzFiZTBiUUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXbVJzVW14cVNXSk9jWEpGVEhCUlZIZGZYMmhMVEZGUVFVbFFOVlptUW5KUVNWTjJjVFZwV0VKTGNuSlFOM3BUTUhaRlFrZEdWRmQzWTNWUFZXbzRhRGhPVW14eVF6SnFNa1JLV2w5S1FqSjVUVmRpVFhwWU0wSnlla3h3TmxVeWFGWXlUSGQzUWxsb0xUaFlSblp2T1dSSFlqQlFiV1pYYzJwaGVsOXJiR2czWW1sUFREVVNGMlpPYWpGaGRtRTRRalp1ZEhCMFVWQm5iMU5xZDBFd0dpSkJTRTR3UlRkSE4yWktRMUoyUWxCNE9HWk9UMkppTkhKSmFWaE1iM1ZmTUdKUjo3YmMwNWM1Nw": {
+    "title": "SAP Analytics Cloud & Datasphere Consultant (Chennai)",
+    "company": "Virtusa",
+    "location": "Chennai, Tamil Nadu, IN",
+    "url": "https://in.jobrapido.com/jobpreview/3649588640545243136",
+    "source": "rapidapi",
+    "score": 0.825,
+    "bucket": "relevant",
+    "notified_at": "2026-11-12T15:17:24.715746+00:00"
+  },
+  "rapidapi:jsearch:YkxwNXBoOGJROFdsV0xvREFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZVmN6VjFONFRtRnBaRWRTWTJwa01VVTRVRkJmZFZaVmNqWmtOMDVOUW1KbFJGRjBVVTFFZVZoc01qVm5RWEI2T0Vaa1JrZ3djemxPWmxGVldHd3pUalJ2U0RCaGJEZG1TVVIxUWtKa1psVm5SbFUwYTJSMFJsWTJUVUZWZUd4Mk5XSmpUbDlpVWxKNWJrbGxibWxxZFZKaVJFOHlaSFpGZFhKRk0yNTZkalZ5YldNMlVuWVNGMlpPYWpGaGRtRTRRalp1ZEhCMFVWQm5iMU5xZDBFd0dpSkJTRTR3UlRkSFlVOTZiM0Y0Um5sTE5qY3hNVXRUVERreVdrVjJPSFJKVWw5Ujo5MDliZmU5NQ": {
+    "title": "SAP SAC Planning Lead (Pune)",
+    "company": "Recognized",
+    "location": "Pune, Maharashtra, IN",
+    "url": "https://in.jobrapido.com/jobpreview/1455626162137989120",
+    "source": "rapidapi",
+    "score": 0.619,
+    "bucket": "relevant",
+    "notified_at": "2026-11-12T15:17:24.715746+00:00"
+  },
+  "rapidapi:jsearch:bnJkQ0ZXUW9QQU5vbWtpS0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZVkUwYld0SFMyUnhkVWxSVFRKNFZHZ3pSQzF1TVhKSmEyYzNORFpVYkc5elprMUdja0pVVVVkSWRqQkJkbFp0UTJnNVRGWjRaSFJLVFRBNFVtOU9SV1ZDVVc1bFNVYzBablJ0VTB3emVEQXhNMmRhUlhZMFRWbHZhSFYxZFZSaVVrVlBhVEpLUW1Kck5FcFZWbTlxZFZWMlNEWndabWxvYzJaUFQxZEdhUzAyUm5kQmJta1NGMlpPYWpGaGRtRTRRalp1ZEhCMFVWQm5iMU5xZDBFd0dpSkJTRTR3UlRkRllXVTRVRW95YkVWcFNFTlBlazlDTFZKMVZHVTFhMVJ2YlhOUjowYzgwNDFlYQ": {
+    "title": "SAP Analytics - BW/BIBO Hana - Senior Associate (Bengaluru)",
+    "company": "Jobs Ta.pwc.com",
+    "location": "Bengaluru, Karnataka, IN",
+    "url": "https://in.jobrapido.com/jobpreview/4445699655363198976",
+    "source": "rapidapi",
+    "score": 0.263,
+    "bucket": "not_relevant",
+    "notified_at": "2026-11-12T15:17:24.715746+00:00"
+  },
+  "rapidapi:jsearch:MkpuT2ZSbFJkMkxiWWN6MkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZVlIzTTNSYVVrTjNPWFpWZDFKRVVXc3RVRkJSTVZKNFVISXpWekpZUjNSSlZUWnBWVjh5YlRaUWMydEthalkwVDBSaVh6QnNVMDQyU1daTVRWWjNXVzVMZG1wNFluSlVkbFJKTVhCYVlrTjFabGxzVmpOVFpsQldRVFphWkRBME5rbGZWbmRoWjNBemVEaERTWFpPZVc5MU5EZGlWRVpGUmtsWVYzbENhSFF6TmxZM1UzRVNGMlpPYWpGaGRtRTRRalp1ZEhCMFVWQm5iMU5xZDBFd0dpSkJTRTR3UlRkRlpGTmthVWxGVUhoQmFXOUhVblZ5WkhSTmNIcGlhWEJpVkd0bjpjZGQ3MTU1Ng": {
+    "title": "Architect - SAP BTP, Group Reporting, SAC, PaPM",
+    "company": "Digital Bright Technologies",
+    "location": "",
+    "url": "https://bebee.com/in/jobs/architect-sap-btp-group-reporting-sac-papm-digital-bright-technologies-remote-india--ss-in-1k0ritw",
+    "source": "rapidapi",
+    "score": 0.492,
+    "bucket": "maybe",
+    "notified_at": "2026-11-12T15:17:24.715746+00:00"
+  },
+  "rapidapi:jsearch:eDlDS19SeEJUM3NsUDR3ZEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXVEJ6WTBveVNWQlNNWGR6ZFVkWFREVjJaWFZDTUhWalpGaGFVRTl4VDNaMWNucFBjVkF5WjFkbFRWRlZSa2gyVmtOTk1reE1hMG8wZFdZMldXbGtWVjlXZEdGZk0wUnBTVGRPTURaUFJHbE9PRmxPUlZoUlgxRlJWRlp3U0ZSWU4yNXlNSGxVY21oSVMzRXdXR3RKVUZCRGEwMXJTREp2YlRCeVRDMWpaa3RRVVdobWFFY1NGMlpPYWpGaGRtRTRRalp1ZEhCMFVWQm5iMU5xZDBFd0dpSkJTRTR3UlRkSFExODJSM04wWkRKWlp6TjNNWEJVTkVkc05UQk9ZM2x6WjNaQjo2NTY2ODM5Yg": {
+    "title": "Package Consultant-SAP BW HANA Analytics (Hyderabad)",
+    "company": "IBM",
+    "location": "Hyderabad, Telangana, IN",
+    "url": "https://in.jobrapido.com/jobpreview/4915311242068885504",
+    "source": "rapidapi",
+    "score": 0.658,
+    "bucket": "relevant",
+    "notified_at": "2026-11-12T15:17:24.715746+00:00"
+  },
+  "rapidapi:jsearch:NkpxbzFCY1pjMDhyQzVmLUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXbkZoUVRreldFZ3habTUwWm5ZMFpIRlRVVVl4YkhSNU1VODNZWEZuWVUxT01GWkhMVmxLTVdKYWExTTNjbTUzWVVJeE1XSXRSRms1UlZReVRVSkVTWFJHWjFoZmJIb3RjWEZrWVd4dFRERTNOMnRDUW1aQlZHMXNkRkIzUm1kM2NsSndObkp2YTIxT2IxbHVRekpOVDJ0NWRuaG9lVEV3ZEdKdU5XUnVWMVIxT0ZKekxXSVNGMlpPYWpGaGRtRTRRalp1ZEhCMFVWQm5iMU5xZDBFd0dpSkJTRTR3UlRkRk0xSnZMVlJ0TFdwWE9WZENaRXRVZUU5b00zQlFNREp1ZVZaUjphMDE0NzIwZg": {
+    "title": "SAP BW/4HANA & Power BI Specialist",
+    "company": "Pradeepit Global Consulting Private Limited",
+    "location": "Bengaluru, Karnataka, IN",
+    "url": "https://apna.co/job/bengaluru/sap-bw-4hana-and-power-bi-specialist-1174795664",
+    "source": "rapidapi",
+    "score": 0.658,
+    "bucket": "relevant",
+    "notified_at": "2026-11-12T15:17:24.715746+00:00"
+  },
+  "rapidapi:jsearch:dGM3Z19RWGdoLVVDU0lkbUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZbTFZVkhveWRWOVJTalZqT0RBMGFYTm1Wa3QwVm1scWNrOUpTemhYY2xrMGVYazBWSE54ZVcxWVZ6UXplVkJvVWtwU1JHVkpNRFUzUW5WWWFUaHhOa05PTFVwbFJtRm1ORkpHY1cxMlIwUm9ZWHBtUm5aelEyNWhaMWsyWkUxS1FXaFpTV2RoVmsxVGVHdFpkVWRzTXpodFdHcGZOa0k0WkROWGFHRnpWMDlqUzFjNVZYWVNGMlpPYWpGaGRtRTRRalp1ZEhCMFVWQm5iMU5xZDBFd0dpSkJTRTR3UlRkSUxVYzBkV1JUY0ZGblNuaGhlbTl2UjJOb2RGcFBNbmRIT0ZKMzpmOGY3ZmVjNQ": {
+    "title": "Senior Product Specialist",
+    "company": "HCLTech",
+    "location": "Indergarh, Uttar Pradesh, IN",
+    "url": "https://www.simplyhired.co.in/job/L31nPKoDMrD0in0bpwly5oFeZOhqTRxoaNmTxTW9BmqsmAEm_wyByw",
+    "source": "rapidapi",
+    "score": 0.508,
+    "bucket": "maybe",
+    "notified_at": "2026-11-12T15:17:24.715746+00:00"
+  },
+  "rapidapi:jsearch:SHhHNnBsbzFPa3VpRm02WEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZVWhUVVZCRWFXUTJNMHAxY1U5SVQwNDROMjVUU0d4VmJqa3hlV0pTTkhWMGMySXhhMEZJVWpSWWIyTXhaaTF5TjBOTlUwOVNNR0pRZEc5dlUybFlhRXR4VWpoSWFrTTBVMVYwWWpOU1NGcGFlRjltVGtaR2NsZFZhamQyTXpSRk1WcE9hbXhFUlRGNE1HSmtkRlkxTkVKUWFVZ3hWM1JoT1dOclprTkVhakJNVTJoc2JTMFNGMmRrYWpGaGNXMVRSbDlwVm5ObFRWQXhVRWRFYTBGTkdpSkJTRTR3UlRkSFYzUkZWVEZCUkhWc1oySlNRMlpKZFc5cldVczJZM1kxYjNwUjo3ZDg4YzUwNA": {
+    "title": "Package Consultant-SAP HANA SCM MM",
+    "company": "IBM",
+    "location": "IN",
+    "url": "https://in.linkedin.com/jobs/view/package-consultant-sap-hana-scm-mm-at-ibm-4488206648",
+    "source": "rapidapi",
+    "score": 0.492,
+    "bucket": "maybe",
+    "notified_at": "2026-11-12T15:17:24.715746+00:00"
+  },
+  "rapidapi:jsearch:XzRESU91bGVYRFpfMFpsdEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXVkYxY0RjMFpubHdSekZzUlhOcFJVNTZURlJJUzE5VU9GTnZOVEJuV1RKbVF6Wm1XRWM0VkRaUVVDMVBhazh6UW5oS1ZsZDBWVEJ4WnpCRmNVdGZVbmRhWkdwWFRITlJjVGRCUldSVVZITkhOalZ0U25GRU4yaG9kMnBmY1Y5TFpIbzJTak14Tm5SdmNsTmxkMU10VUhneU5VaHNVSE4wTFdoUGJYTlVlR1oyYjFjNU16WVNGMmRrYWpGaGNXMVRSbDlwVm5ObFRWQXhVRWRFYTBGTkdpSkJTRTR3UlRkR09IQnZWVXhUWm1ZelFWTlVSbXc0UzFKdmIyNXplSFJMY21sUjplODMwMGI2Nw": {
+    "title": "Package Consultant-SAP HANA Master Data Governance",
+    "company": "IBM",
+    "location": "Ahmedabad, Gujarat, IN",
+    "url": "https://in.linkedin.com/jobs/view/package-consultant-sap-hana-master-data-governance-at-ibm-4487858079",
+    "source": "rapidapi",
+    "score": 0.492,
+    "bucket": "maybe",
+    "notified_at": "2026-11-12T15:17:24.715746+00:00"
+  },
+  "rapidapi:jsearch:WkhiZWpUWGJHelhpUUxvWEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZVXQ0TUU5aGVFOWpiV2cxUXpCTVlqaHNYMWxIUVU0MWVIcHJhbUpFTTFCbWJtTXlaRFZYV0c5aGJqZE1XREpTY20xYWFEVkdhelZuUkZsbGFqUklXRzVvZWpCSFpFaFNWRzlNUzNVeFJGZ3RNRnBJZW5kbk5VaGlOSFpEY0ZVME1VODVUMHBwY1VWZmRYRmhaRWd0VjFkemVFZDNhR1pLUWpCa2FXOTBaVmR5V0VkSmNIQVNGMmRrYWpGaGNXMVRSbDlwVm5ObFRWQXhVRWRFYTBGTkdpSkJTRTR3UlRkSVIxcDFMVmxHTkRKUVNHMUNNSGczYVd4dFRtRlpURWhDVVdwbjo3ZDg4YzUwNA": {
+    "title": "Package Consultant-SAP HANA SCM MM",
+    "company": "IBM",
+    "location": "Hyderabad, Telangana, IN",
+    "url": "https://in.linkedin.com/jobs/view/package-consultant-sap-hana-scm-mm-at-ibm-4487846451",
+    "source": "rapidapi",
+    "score": 0.492,
+    "bucket": "maybe",
+    "notified_at": "2026-11-12T15:17:24.715746+00:00"
+  },
+  "rapidapi:jsearch:dnB2c3BLbXFkc29rZEN5S0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZbEJhVlVOeFkxSjNiMGxNTWtKR09IUnpOMUp5V2pKTU1qRk1VVXRoYTJSb01VWk5UMWh5TW00NU4yTllTVGRMUjFWQ1JUUlVTRlpQWDI5NWFqTjZXRzlIVFZOYVNXeGFaMkkzTjB4SmNUZGlkbmh1WkRZMlRHdHRWVjlpVjAxemN5MTJWR0p4ZGtoaGR6Rm1halpmVlZjNVJFTjNSbEJVUms1Uk4yTXdlVUpxUzBSTVVUUVNGMmRrYWpGaGNXMVRSbDlwVm5ObFRWQXhVRWRFYTBGTkdpSkJTRTR3UlRkSFJtMVRRakZMWTBvMFJXcDZZVmhDYmxoa09EUmhTbG80YW1WUjo1MzgzYzJmOA": {
+    "title": "Sr. Consultant - S/4 HANA SD Job",
+    "company": "YASH Technologies",
+    "location": "Hyderabad, Telangana, IN",
+    "url": "https://in.linkedin.com/jobs/view/sr-consultant-s-4-hana-sd-job-at-yash-technologies-4488641842",
+    "source": "rapidapi",
+    "score": 0.492,
+    "bucket": "maybe",
+    "notified_at": "2026-11-12T15:17:24.715746+00:00"
+  },
+  "rapidapi:jsearch:c1FMYnRpa2QzVHZZS3BHeUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXa05oVkdGalZVZzVkbmx3UkdrNE5HRkRNMHN3VEU1NWRVZGtXa3R6YVhkUGIyOVFOVE5JUW1SaWJ6UTVNWG80WlhOMGJubGFNVTkzU2pkUFYwaERNR2xoYVhOc1JHWmlaRUpxTUZoaWRFNXhlazFMVUdWbmFIcENiM1ZVVldWeVVucFRPVE5PVTNWb05YYzRPRTFCUkRCSWRtNVdjRUl0VVdGdmJrYzVORU5PYkdadFdqY1NGMmRrYWpGaGNXMVRSbDlwVm5ObFRWQXhVRWRFYTBGTkdpSkJTRTR3UlRkSVQwZGZXRTlPVTFkcU1YWmphRlJqY1dwRFJEbGtOMkpDY1dobjpiZjc5MDQ1MQ": {
+    "title": "Package Consultant-SAP HANA FIN FICA",
+    "company": "IBM",
+    "location": "IN",
+    "url": "https://in.linkedin.com/jobs/view/package-consultant-sap-hana-fin-fica-at-ibm-4487423284",
+    "source": "rapidapi",
+    "score": 0.492,
+    "bucket": "maybe",
+    "notified_at": "2026-11-12T15:17:24.715746+00:00"
+  },
+  "rapidapi:jsearch:a3lKaXRkTkc5bEctQ2xzNEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZalUwV2pkQ05Vd3pWVVpwTkVSSmNUbEpUM0l0T0VkYUxXcG9jbFIxUlRGM1NYWnJUekZDTkd0TFVFRXhPVkJxWWxKb2NFOXZWRE5STVY5d2NFOUNNV3h2VFdjeFJISkVkMmhtV0V4bFJqZHFkbTFGWm05MlEwVjBjVzVQU0hOUWQzSjBXWGRWZW5ReU0xbHZkbGhGVGpWclZHWlJkVXRVTWtacFYyNVliakpFZDBKYVRXSVNGMmRrYWpGaGNXMVRSbDlwVm5ObFRWQXhVRWRFYTBGTkdpSkJTRTR3UlRkSFZqaG9iV3QyTVZkT1oyOTZlRFo1ZFRGWVNVTk9RMnh2TTB0Mzo3ZDg4YzUwNA": {
+    "title": "Package Consultant-SAP HANA SCM MM",
+    "company": "IBM",
+    "location": "Ahmedabad, Gujarat, IN",
+    "url": "https://in.linkedin.com/jobs/view/package-consultant-sap-hana-scm-mm-at-ibm-4487417483",
+    "source": "rapidapi",
+    "score": 0.492,
+    "bucket": "maybe",
+    "notified_at": "2026-11-12T15:17:24.715746+00:00"
+  },
+  "rapidapi:jsearch:M1VmVThMVjRpdkp2LTRJV0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXV2RSVVRsSWVHcFdlV3BzWTNWdFpFNXdkRGR4WHpkRlNVRndOVlpwWTFwNFMycFdiVlpCYVhOQlpuTmFUVEF4TTJZM1REbEhlRGN0ZG5SaU56VlJjbk5OYUZCTFdWWnlhMkpqU25oUWJIWjBXVWxtVEhwRWNreEtPRFJFZDBOd05HRXpNRkJVZEMxamNUWmFORFJ3UVdka1kzWmFhMTlNVDFsSFlqZDJSSFJRVW1sdE5VWVNGMmRrYWpGaGNXMVRSbDlwVm5ObFRWQXhVRWRFYTBGTkdpSkJTRTR3UlRkSVUxZDVVVEV3U2xwU0xXazRjM1I1UkZOSVltTkdYMFpxVHpGMzoxMTlhY2IzZg": {
+    "title": "Package Consultant-SAP HANA FIN CO",
+    "company": "IBM",
+    "location": "Hyderabad, Telangana, IN",
+    "url": "https://in.linkedin.com/jobs/view/package-consultant-sap-hana-fin-co-at-ibm-4487474410",
+    "source": "rapidapi",
+    "score": 0.492,
+    "bucket": "maybe",
+    "notified_at": "2026-11-12T15:17:24.715746+00:00"
+  },
+  "rapidapi:jsearch:NG1Hc1ZFalR0UHR3RENNX0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZWEZ1T1hwb1lXdHlOM0pXYUhKU1pYZDNRMEZXUjFrNFEwUjZWMk40Y1daMGJqTllNVEZ4U0VKclpISlhYMmw0VUhGV1YyOVZSMVk0V1hSWU1VTTRaMkYyT1V4eVoxcHliMjl6TFRsd1lUQnZYMHhxYW1SMVFWOHhiRkl6VmpsWmVFWndlV05oUWtVelkzWkNWVlZ3U21sS1F6VkxabTlsYkdGZlptWjVRa2d4ZUVsV1EwTVNGMmRrYWpGaGNXMVRSbDlwVm5ObFRWQXhVRWRFYTBGTkdpSkJTRTR3UlRkSFJGaEdiSEo1ZWxWNmNUWkxNVW90YkZkUE4xbzFSVXQ1WHpsUjo1NGM0NjVhMQ": {
+    "title": "Package Consultant-SAP BW HANA Analytics",
+    "company": "IBM",
+    "location": "Hyderabad, Telangana, IN",
+    "url": "https://in.linkedin.com/jobs/view/package-consultant-sap-bw-hana-analytics-at-ibm-4487414785",
+    "source": "rapidapi",
+    "score": 0.658,
+    "bucket": "relevant",
+    "notified_at": "2026-11-12T15:17:24.715746+00:00"
+  },
+  "rapidapi:jsearch:a1dORE13S2xBaGFmYVNDSEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXbkZLYWt0S1YzTXlNR0Z4Ym1kak5rMXlVbEJVZVV3MGNFRkVXRWRJV0RaRmRVdHRiMlpCVDNZMWFFb3hiazV0TmpRemJFOUNhVWN4WXpCeWNuSTFWa2ROTUdaNFZ5MVJjSGxyYkRaR1JVRnZhbmt5VGxwWVlXMVFUMmRDV0doellqZHpSREJ2VlZBNU1rVlBaRlZQV1cxUVIzZHJaRU51VW1kbk9USnlVbG8wYUZsdFdFRVNGMmRrYWpGaGNXMVRSbDlwVm5ObFRWQXhVRWRFYTBGTkdpSkJTRTR3UlRkSGFFOURZVUZ6VldwSWJUaG1hamxRY2w4MFFURTJNakV4ZDE5QjozYTVhMzRmOA": {
+    "title": "SAP ABAP-Staff",
+    "company": "EY",
+    "location": "Coimbatore, Tamil Nadu, IN",
+    "url": "https://in.linkedin.com/jobs/view/sap-abap-staff-at-ey-4488686728",
+    "source": "rapidapi",
+    "score": 0.825,
+    "bucket": "relevant",
+    "notified_at": "2026-11-12T15:17:24.715746+00:00"
+  },
+  "rapidapi:jsearch:MlZMUmlXT3ZIZkt6UFc3M0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXVXcxU210MFlUWmZNbVZpTnpoMmVFRk9kM1JQUkhKSVVFVjZOSFEwYVMxaWJtdFpaRnBrYWxac1EwMXJlVkJUWWpCdVkyVkdXak15YlhsVlIzaEZjRkV3WlRkT2MxcEJjRXBUZURGZlUyOVRNbVJVWVRFeGVHSXhNamQwVjJsZmRtWnBWRjlyTmtoV1ZuaEtlVVJGVmtwbmFUbG5ORlJRT0hGRmFrbEZhVmRxZWtGbk9EWVNGMmRrYWpGaGNXMVRSbDlwVm5ObFRWQXhVRWRFYTBGTkdpSkJTRTR3UlRkRmNtTjBSRzVWVERWVGFraGZlWEpIWlhGdWFuZHRiamhpUkc5bjpkMjQ4ODVkMQ": {
+    "title": "SAP ABAP Developer - SAP Abap ON Hana, RAP Framework, Abap Cloud",
+    "company": "Innovative Information Technologies",
+    "location": "Bengaluru, Karnataka, IN",
+    "url": "https://www.shine.com/jobs/sap-abap-developer-sap-abap-on-hana-rap-framework-abap-cloud/innovative-information-technologies/20047444",
+    "source": "rapidapi",
+    "score": 0.825,
+    "bucket": "relevant",
+    "notified_at": "2026-11-12T15:17:24.715746+00:00"
+  }
+}
