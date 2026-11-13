@@ -120,9 +120,9 @@ def _send_telegram_messages(token: str, chat_id: str, texts: list[str]) -> None:
         if len(text) > TELEGRAM_MAX_LEN:
             text = text[:TELEGRAM_MAX_LEN] + "\n…(truncated)"
         _send_telegram(token, chat_id, text)
-        # Small delay between messages to avoid hitting Telegram rate limits.
+        # Delay between messages to avoid hitting Telegram rate limits.
         if i < len(texts) - 1:
-            time.sleep(1)
+            time.sleep(2)
 
 
 def _ist_now() -> datetime:

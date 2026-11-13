@@ -11,6 +11,7 @@ from __future__ import annotations
 import argparse
 import sys
 from pathlib import Path
+from urllib.parse import urlparse
 
 APP_DIR = Path(__file__).resolve().parent
 SRC_DIR = APP_DIR / "src"
@@ -90,6 +91,9 @@ def run_once(demo_only: bool = False) -> dict:
             seen_ids.add(job.id)
             unique_jobs.append(job)
 
+    # True duplicates: jobs already in seen_jobs.json from previous runs.
+    true_duplicates = [j for j in unique_jobs if not state.is_new(j)]
+
     new_jobs = [j for j in unique_jobs if state.is_new(j)]
 
     # Skip paywalled / low-quality job boards (e.g. beebee.com behind paywall).
@@ -97,13 +101,21 @@ def run_once(demo_only: bool = False) -> dict:
     before_paywall = len(new_jobs)
     new_jobs = [
         j for j in new_jobs
-        if not any(domain in j.url.lower() for domain in PAYWALLED_DOMAINS)
+        if not any(
+            domain in urlparse(j.url).netloc.lower()
+            for domain in PAYWALLED_DOMAINS
+        )
     ]
     skipped_paywall = before_paywall - len(new_jobs)
 
-    print(f"  {len(unique_jobs)} unique, {len(new_jobs)} new since last run")
+    print(
+        f"  {len(unique_jobs)} unique, "
+        f"{len(true_duplicates)} duplicates, "
+        f"{skipped_paywall} paywalled, "
+        f"{len(new_jobs)} new since last run"
+    )
 
-    duplicates_removed = len(unique_jobs) - len(new_jobs) - skipped_paywall
+    duplicates_removed = len(true_duplicates)
 
     relevant, maybe = filter_jobs(
         new_jobs, profile, AppConfig.from_dict(app_config)
