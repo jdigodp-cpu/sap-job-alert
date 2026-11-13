@@ -97,12 +97,14 @@ def run_once(demo_only: bool = False) -> dict:
     new_jobs = [j for j in unique_jobs if state.is_new(j)]
 
     # Skip paywalled / low-quality job boards (e.g. beebee.com behind paywall).
-    PAYWALLED_DOMAINS = ("beebee.com",)
+    PAYWALLED_DOMAINS = ("beebee.com", "beebee")
     before_paywall = len(new_jobs)
     new_jobs = [
         j for j in new_jobs
         if not any(
             domain in urlparse(j.url).netloc.lower()
+            or domain in j.url.lower()
+            or domain in (j.company or "").lower()
             for domain in PAYWALLED_DOMAINS
         )
     ]
