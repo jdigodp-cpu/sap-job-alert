@@ -1,7 +1,8 @@
 # Environment / secrets
 .env
 
-# Runtime data / state - seen_jobs.json is tracked for dedup
+# Runtime data / state (seen_jobs.json is force-added by the workflow)
+data/
 *.session
 session.b64
 
