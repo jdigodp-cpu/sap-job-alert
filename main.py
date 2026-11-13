@@ -93,11 +93,13 @@ def run_once(demo_only: bool = False) -> dict:
     new_jobs = [j for j in unique_jobs if state.is_new(j)]
     print(f"  {len(unique_jobs)} unique, {len(new_jobs)} new since last run")
 
+    duplicates_removed = len(unique_jobs) - len(new_jobs)
+
     relevant, maybe = filter_jobs(
         new_jobs, profile, AppConfig.from_dict(app_config)
     )
 
-    alert(relevant, maybe, app_config)
+    alert(relevant, maybe, app_config, duplicates_removed=duplicates_removed)
 
     # Persist state for everything we looked at this run (avoid re-scoring
     # and re-notifying jobs we have already seen).
