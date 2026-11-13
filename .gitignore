@@ -1,8 +1,7 @@
 # Environment / secrets
 .env
 
-# Runtime data / state (seen_jobs.json is force-added by the workflow)
-data/
+# Runtime data / state
 *.session
 session.b64
 
