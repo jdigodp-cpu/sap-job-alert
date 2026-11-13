@@ -91,9 +91,19 @@ def run_once(demo_only: bool = False) -> dict:
             unique_jobs.append(job)
 
     new_jobs = [j for j in unique_jobs if state.is_new(j)]
+
+    # Skip paywalled / low-quality job boards (e.g. beebee.com behind paywall).
+    PAYWALLED_DOMAINS = ("beebee.com",)
+    before_paywall = len(new_jobs)
+    new_jobs = [
+        j for j in new_jobs
+        if not any(domain in j.url.lower() for domain in PAYWALLED_DOMAINS)
+    ]
+    skipped_paywall = before_paywall - len(new_jobs)
+
     print(f"  {len(unique_jobs)} unique, {len(new_jobs)} new since last run")
 
-    duplicates_removed = len(unique_jobs) - len(new_jobs)
+    duplicates_removed = len(unique_jobs) - len(new_jobs) - skipped_paywall
 
     relevant, maybe = filter_jobs(
         new_jobs, profile, AppConfig.from_dict(app_config)
