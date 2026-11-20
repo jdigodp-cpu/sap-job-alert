@@ -12,6 +12,10 @@ sources:
     engine: "jsearch"    # "jsearch" or "techmap"
   blocked_domains:
     - "bebee.com"        # paywalled job board — skip entirely
+  allowed_domains:
+    - "linkedin.com"     # only LinkedIn jobs
+    - "indeed.com"       # only Indeed jobs
+    - "naukri.com"       # only Naukri jobs
   rss_feeds:
     enabled: false
     urls: []

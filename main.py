@@ -114,6 +114,22 @@ def _is_paywalled(job, blocked_domains):
     return False
 
 
+def _is_allowed_domain(job, allowed_domains):
+    """Return True only if the job's URL domain is in the allowed list.
+
+    If allowed_domains is empty, all domains are allowed (no filtering).
+    """
+    if not allowed_domains:
+        return True
+    url = (job.url or "").lower()
+    netloc = urlparse(job.url or "").netloc.lower()
+    for domain in allowed_domains:
+        d = domain.lower()
+        if d in netloc or d in url:
+            return True
+    return False
+
+
 def _dedup_by_fingerprint(jobs):
     """When the same job appears on multiple portals, keep the best source.
 
@@ -145,6 +161,12 @@ def run_once(demo_only: bool = False) -> dict:
     # Blocked / paywalled domains — configurable via config.yaml sources.blocked_domains
     blocked_domains = tuple(
         app_config.get("sources", {}).get("blocked_domains", ["bebee.com", "bebee"])
+    )
+
+    # Allowed domains: only jobs from these portals are kept.
+    # If empty, all domains are allowed.
+    allowed_domains = tuple(
+        app_config.get("sources", {}).get("allowed_domains", [])
     )
 
     sources = build_sources(app_config)
@@ -180,6 +202,12 @@ def run_once(demo_only: bool = False) -> dict:
     cross_deduped = [j for j in cross_deduped if not _is_paywalled(j, blocked_domains)]
     skipped_paywall = before_paywall - len(cross_deduped)
 
+    # 3b) Keep only jobs from allowed domains (LinkedIn, Indeed, Naukri, etc.)
+    #     If allowed_domains is empty, no domain filtering is applied.
+    before_domain_filter = len(cross_deduped)
+    cross_deduped = [j for j in cross_deduped if _is_allowed_domain(j, allowed_domains)]
+    skipped_domain = before_domain_filter - len(cross_deduped)
+
     # 4) De-duplicate against seen_jobs.json (jobs already notified in prior runs).
     true_duplicates = [j for j in cross_deduped if not state.is_new(j)]
     new_jobs = [j for j in cross_deduped if state.is_new(j)]
@@ -190,6 +218,7 @@ def run_once(demo_only: bool = False) -> dict:
         f"{len(exact_unique)} exact-unique, "
         f"{cross_dedup_dropped} cross-portal deduped, "
         f"{skipped_paywall} paywalled, "
+        f"{skipped_domain} non-allowed-domain, "
         f"{duplicates_removed} duplicates, "
         f"{len(new_jobs)} new to score"
     )
