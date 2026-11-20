@@ -23,13 +23,9 @@ sources:
 
 search_queries:
   - "SAP CDS Views AMDP"
-  - "SAP Embedded Analytics"
   - "SAP Datasphere"
-  - "ABAP CDS"
-  - "HANA Calculation View"
-  - "SAP Fiori analytical app"
   - "SAP Analytics Cloud"
-  - "SAP HANA developer"
+  - "ABAP CDS"
 
 preferred_locations:
   - "Pune"
